@@ -1,0 +1,41 @@
+- Categorise achievements 
+- each achievement unlocks differently depending on DLC 
+    - Do rep only? 
+
+https://regex-generator.olafneumann.org/
+
+Isaac
+Magdalene
+Cain
+Judas
+???
+Eve
+Samson
+Azazel
+Lazarus
+Eden
+The Lost
+Lilith
+Keeper
+Apollyon
+The Forgotten
+Bethany 
+Lazarus
+Jacob and Esau
+Tainted Isaac 
+Tainted Magdalene
+Tainted Cain
+Tainted Judas
+Tainted ???
+Tainted Eve
+Tainted Samson Tainted Samson
+Tainted Azazel Tainted Azazel
+Tainted Lazarus Tainted Lazaru
+Tainted Eden
+Tainted Lost
+Tainted Lilith
+Tainted Keeper
+Tainted Apollyon
+Tainted Forgotten Tainted Forgotten
+Tainted Bethany
+Tainted Jacob

@@ -1,0 +1,5098 @@
+[
+ {
+   "Name": "Magdalene",
+   "Description": "Unlocked a new character.",
+   "Unlock": "Have 7 or more Red Heart Containers at one time",
+   "In Game Secret Number": "1",
+   "link": "/wiki/Magdalene",
+   "rating": null
+ },
+ {
+   "Name": "Cain",
+   "Description": "Unlocked a new character.",
+   "Unlock": "Hold 55 Coins at one time",
+   "In Game Secret Number": "2",
+   "link": "/wiki/Cain",
+   "rating": null
+ },
+ {
+   "Name": "Judas",
+   "Description": "Unlocked a new character.",
+   "Unlock": "Defeat Satan",
+   "In Game Secret Number": "3",
+   "link": "/wiki/Judas",
+   "rating": null
+ },
+ {
+   "Name": "The Womb",
+   "Description": "Chapter 4 - The Womb unlocked.",
+   "Unlock": "Defeat Mom",
+   "In Game Secret Number": "4",
+   "link": "/wiki/Womb",
+   "rating": null
+ },
+ {
+   "Name": "The Harbingers",
+   "Description": "The horsemen are loose.",
+   "Unlock": "Defeat Mom",
+   "In Game Secret Number": "5",
+   "link": "/wiki/The_Harbingers",
+   "rating": null
+ },
+ {
+   "Name": "A Cube of Meat",
+   "Description": "Unlocked a new item. (Also unlocks the Ball of Bandages)",
+   "Unlock": "Defeat Mom",
+   "In Game Secret Number": "6",
+   "link": "/wiki/Cube_of_Meat",
+   "rating": null
+ },
+ {
+   "Name": "The Book of Revelations",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat a Harbinger",
+   "In Game Secret Number": "7",
+   "link": "/wiki/Book_of_Revelations",
+   "rating": 3
+ },
+ {
+   "Name": "A Noose",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Mom's Heart 3 times",
+   "In Game Secret Number": "8",
+   "link": "/wiki/Transcendence",
+   "rating": null
+ },
+ {
+   "Name": "The Nail",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete the Boss Rush as Azazel",
+   "In Game Secret Number": "9",
+   "link": "/wiki/The_Nail",
+   "rating": 3
+ },
+ {
+   "Name": "A Quarter",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Mom's Heart 8 times",
+   "In Game Secret Number": "10",
+   "link": "/wiki/A_Quarter",
+   "rating": null
+ },
+ {
+   "Name": "A Fetus in a Jar",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Mom's Heart 9 times",
+   "In Game Secret Number": "11",
+   "link": "/wiki/Dr._Fetus",
+   "rating": null
+ },
+ {
+   "Name": "A Small Rock",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Destroy 100 Tinted Rocks",
+   "In Game Secret Number": "12",
+   "link": "/wiki/The_Small_Rock",
+   "rating": 3
+ },
+ {
+   "Name": "Monstro's Tooth",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Beat Chapter 1",
+   "In Game Secret Number": "13",
+   "link": "/wiki/Monstro%27s_Tooth",
+   "rating": null
+ },
+ {
+   "Name": "Lil' Chubby",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Beat Chapter 2",
+   "In Game Secret Number": "14",
+   "link": "/wiki/Little_Chubby",
+   "rating": null
+ },
+ {
+   "Name": "Loki's Horns",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Lokii",
+   "In Game Secret Number": "15",
+   "link": "/wiki/Loki%27s_Horns",
+   "rating": null
+ },
+ {
+   "Name": "Something From The Future",
+   "Description": "New boss in the basement!",
+   "Unlock": "Beat Basement 40 times",
+   "In Game Secret Number": "16",
+   "link": "/wiki/Steven",
+   "rating": null
+ },
+ {
+   "Name": "Something Cute",
+   "Description": "New boss in the caves!",
+   "Unlock": "Beat Chapter 2 30 times",
+   "In Game Secret Number": "17",
+   "link": "/wiki/C.H.A.D.",
+   "rating": null
+ },
+ {
+   "Name": "Something Sticky",
+   "Description": "New boss in the depths!",
+   "Unlock": "Beat Chapter 3 20 times",
+   "In Game Secret Number": "18",
+   "link": "/wiki/Gish",
+   "rating": null
+ },
+ {
+   "Name": "A Bandage",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Make a Super Bandage Girl by picking up 4 copies of Ball of Bandages in one run; see Unlocking Super Meat Boy & Super Bandage Girl",
+   "In Game Secret Number": "19",
+   "link": "/wiki/Super_Bandage",
+   "rating": null
+ },
+ {
+   "Name": "A Cross",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Isaac as Magdalene",
+   "In Game Secret Number": "20",
+   "link": "/wiki/The_Relic",
+   "rating": null
+ },
+ {
+   "Name": "A Bag of Pennies",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Isaac as Cain",
+   "In Game Secret Number": "21",
+   "link": "/wiki/Sack_of_Pennies",
+   "rating": null
+ },
+ {
+   "Name": "The Book of Sin",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat all 7 Deadly Sins",
+   "In Game Secret Number": "22",
+   "link": "/wiki/The_Book_of_Sin",
+   "rating": null
+ },
+ {
+   "Name": "Little Gish",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Gish",
+   "In Game Secret Number": "23",
+   "link": "/wiki/Little_Gish",
+   "rating": null
+ },
+ {
+   "Name": "Little Steven",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Steven",
+   "In Game Secret Number": "24",
+   "link": "/wiki/Little_Steven",
+   "rating": null
+ },
+ {
+   "Name": "Little C.H.A.D.",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat C.H.A.D.",
+   "In Game Secret Number": "25",
+   "link": "/wiki/Little_C.H.A.D.",
+   "rating": null
+ },
+ {
+   "Name": "A Gamekid",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Visit 10 Arcades",
+   "In Game Secret Number": "26",
+   "link": "/wiki/The_Gamekid",
+   "rating": null
+ },
+ {
+   "Name": "A Halo",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Mom, Mom's Heart, or It Lives! using The Bible",
+   "In Game Secret Number": "27",
+   "link": "/wiki/The_Halo",
+   "rating": 3
+ },
+ {
+   "Name": "Mr. Mega",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Destroy 10 Tinted Rocks",
+   "In Game Secret Number": "28",
+   "link": "/wiki/Mr._Mega",
+   "rating": null
+ },
+ {
+   "Name": "The D6",
+   "Description": "Isaac now holds the D6!",
+   "Unlock": "Defeat Isaac as ???",
+   "In Game Secret Number": "29",
+   "link": "/wiki/The_D6",
+   "rating": 1
+ },
+ {
+   "Name": "The Scissors",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Die 100 times",
+   "In Game Secret Number": "30",
+   "link": "/wiki/Scissors",
+   "rating": null
+ },
+ {
+   "Name": "The Parasite",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Pick up any 2 of the following items in a single run: Bob's Rotten Head, Dead Cat, Cricket's Head, and Tammy's Head ( Any 2 items that have the 'dead' item tag)",
+   "In Game Secret Number": "31",
+   "link": "/wiki/The_Parasite",
+   "rating": 3
+ },
+ {
+   "Name": "???",
+   "Description": "Unlocked a new character.",
+   "Unlock": "Defeat Mom's Heart 10 times",
+   "In Game Secret Number": "32",
+   "link": "/wiki/%3F%3F%3F_(Character)",
+   "rating": null
+ },
+ {
+   "Name": "Everything Is Terrible!!!",
+   "Description": "The game just got harder!",
+   "Unlock": "Defeat Mom's Heart 5 times",
+   "In Game Secret Number": "33",
+   "link": "",
+   "rating": null
+ },
+ {
+   "Name": "It Lives!",
+   "Description": "Your future's past waits.",
+   "Unlock": "Defeat Mom's Heart 11 times",
+   "In Game Secret Number": "34",
+   "link": "/wiki/It_Lives",
+   "rating": null
+ },
+ {
+   "Name": "Mom's Contact",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Obtain three Yes Mother? items in one run",
+   "In Game Secret Number": "35",
+   "link": "/wiki/Mom%27s_Contacts",
+   "rating": 3
+ },
+ {
+   "Name": "The Necronomicon",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Use XIII - Death 4 times",
+   "In Game Secret Number": "36",
+   "link": "/wiki/The_Necronomicon",
+   "rating": null
+ },
+ {
+   "Name": "Basement Boy",
+   "Description": "Beat basement without taking damage.",
+   "Unlock": "Beat Chapter 1 without taking damage",
+   "In Game Secret Number": "37",
+   "link": "",
+   "rating": null
+ },
+ {
+   "Name": "Spelunker Boy",
+   "Description": "Beat caves without taking damage.",
+   "Unlock": "Beat Chapter 2 without taking damage",
+   "In Game Secret Number": "38",
+   "link": "",
+   "rating": null
+ },
+ {
+   "Name": "Dark Boy",
+   "Description": "Beat depths without taking damage.",
+   "Unlock": "Beat Chapter 3 without taking damage",
+   "In Game Secret Number": "39",
+   "link": "",
+   "rating": null
+ },
+ {
+   "Name": "Mama's Boy",
+   "Description": "Beat womb without taking damage.",
+   "Unlock": "Beat Chapter 4 without taking damage",
+   "In Game Secret Number": "40",
+   "link": "",
+   "rating": null
+ },
+ {
+   "Name": "Golden God!",
+   "Description": "You are the best!!",
+   "Unlock": "Defeat ??? and The Lamb",
+   "In Game Secret Number": "41",
+   "link": "",
+   "rating": null
+ },
+ {
+   "Name": "Eve",
+   "Description": "Unlocked a new character.",
+   "Unlock": "Don't pick up any Hearts for 2 floors in a row",
+   "In Game Secret Number": "42",
+   "link": "/wiki/Eve",
+   "rating": null
+ },
+ {
+   "Name": "Mom's Knife",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Satan as Isaac",
+   "In Game Secret Number": "43",
+   "link": "/wiki/Mom%27s_Knife",
+   "rating": 1
+ },
+ {
+   "Name": "The Razor",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Satan as Eve",
+   "In Game Secret Number": "44",
+   "link": "/wiki/Razor_Blade",
+   "rating": null
+ },
+ {
+   "Name": "Guardian Angel",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Satan as Magdalene",
+   "In Game Secret Number": "45",
+   "link": "/wiki/Guardian_Angel",
+   "rating": null
+ },
+ {
+   "Name": "A Bag of Bombs",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Satan as Cain",
+   "In Game Secret Number": "46",
+   "link": "/wiki/Bomb_Bag",
+   "rating": null
+ },
+ {
+   "Name": "Demon Baby",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat The Lamb as Azazel",
+   "In Game Secret Number": "47",
+   "link": "/wiki/Demon_Baby",
+   "rating": null
+ },
+ {
+   "Name": "Forget Me Now",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Satan as ???",
+   "In Game Secret Number": "48",
+   "link": "/wiki/Forget_Me_Now",
+   "rating": 3
+ },
+ {
+   "Name": "The D20",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat ??? as Isaac",
+   "In Game Secret Number": "49",
+   "link": "/wiki/D20",
+   "rating": null
+ },
+ {
+   "Name": "Celtic Cross",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat ??? as Magdalene",
+   "In Game Secret Number": "50",
+   "link": "/wiki/Celtic_Cross",
+   "rating": null
+ },
+ {
+   "Name": "Abel",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat The Lamb as Cain",
+   "In Game Secret Number": "51",
+   "link": "/wiki/Abel",
+   "rating": null
+ },
+ {
+   "Name": "Curved Horn",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat The Lamb as Judas",
+   "In Game Secret Number": "52",
+   "link": "/wiki/Curved_Horn",
+   "rating": 3
+ },
+ {
+   "Name": "Sacrificial Dagger",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat ??? as Eve",
+   "In Game Secret Number": "53",
+   "link": "/wiki/Sacrificial_Dagger",
+   "rating": null
+ },
+ {
+   "Name": "Bloody Lust",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Isaac as Samson",
+   "In Game Secret Number": "54",
+   "link": "/wiki/Bloody_Lust",
+   "rating": null
+ },
+ {
+   "Name": "Blood Penny",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat ??? as Samson",
+   "In Game Secret Number": "55",
+   "link": "/wiki/Bloody_Penny",
+   "rating": null
+ },
+ {
+   "Name": "Blood Rights",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Satan as Samson",
+   "In Game Secret Number": "56",
+   "link": "/wiki/Blood_Rights",
+   "rating": null
+ },
+ {
+   "Name": "The Polaroid",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Isaac 5 times",
+   "In Game Secret Number": "57",
+   "link": "/wiki/The_Polaroid",
+   "rating": null
+ },
+ {
+   "Name": "Dad's Key",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Pick up both Key Pieces from the Angels in one run",
+   "In Game Secret Number": "58",
+   "link": "/wiki/Dad%27s_Key",
+   "rating": null
+ },
+ {
+   "Name": "Blue Candle",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Donate 900 coins to the Donation Machine",
+   "In Game Secret Number": "59",
+   "link": "/wiki/The_Candle",
+   "rating": 3
+ },
+ {
+   "Name": "Burnt Penny",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete Beans! (challenge #13)",
+   "In Game Secret Number": "60",
+   "link": "/wiki/Burnt_Penny",
+   "rating": null
+ },
+ {
+   "Name": "Lucky Toe",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Blow up 20 Shopkeepers",
+   "In Game Secret Number": "61",
+   "link": "/wiki/Lucky_Toe",
+   "rating": null
+ },
+ {
+   "Name": "Epic Fetus",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete The Family Man (challenge #19)",
+   "In Game Secret Number": "62",
+   "link": "/wiki/Epic_Fetus",
+   "rating": 2
+ },
+ {
+   "Name": "SMB Super Fan",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete It's in the Cards (challenge #14)",
+   "In Game Secret Number": "63",
+   "link": "/wiki/SMB_Super_Fan",
+   "rating": 3
+ },
+ {
+   "Name": "Counterfeit Coin",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Play either Shell Game or Hell Game 100 times",
+   "In Game Secret Number": "64",
+   "link": "/wiki/Counterfeit_Penny",
+   "rating": null
+ },
+ {
+   "Name": "Guppy's Hairball",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Become Guppy",
+   "In Game Secret Number": "65",
+   "link": "/wiki/Guppy%27s_Hair_Ball",
+   "rating": 3
+ },
+ {
+   "Name": "A Forgotten Horseman",
+   "Description": "Unlocked a new boss!",
+   "Unlock": "Take 10 Angel Room items",
+   "In Game Secret Number": "66",
+   "link": "/wiki/Conquest",
+   "rating": null
+ },
+ {
+   "Name": "Samson",
+   "Description": "Unlocked a new character.",
+   "Unlock": "Complete 2 floors in a row without taking damage",
+   "In Game Secret Number": "67",
+   "link": "/wiki/Samson",
+   "rating": null
+ },
+ {
+   "Name": "Something Icky",
+   "Description": "New boss in the womb!",
+   "Unlock": "Defeat Isaac 10 times",
+   "In Game Secret Number": "68",
+   "link": "/wiki/Triachnid",
+   "rating": null
+ },
+ {
+   "Name": "!Platinum God!",
+   "Description": "OMG!",
+   "Unlock": "Collect all non-DLC items in the game, and unlock all of the secrets and endings (minus The Lost and his 6 unlockable items)",
+   "In Game Secret Number": "69",
+   "link": "",
+   "rating": null
+ },
+ {
+   "Name": "Isaac's Head",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete the Boss Rush as Isaac",
+   "In Game Secret Number": "70",
+   "link": "/wiki/Isaac%27s_Head",
+   "rating": null
+ },
+ {
+   "Name": "Maggy's Faith",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat The Lamb as Magdalene",
+   "In Game Secret Number": "71",
+   "link": "/wiki/Maggy%27s_Faith",
+   "rating": null
+ },
+ {
+   "Name": "Judas' Tongue",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Satan as Judas",
+   "In Game Secret Number": "72",
+   "link": "/wiki/Judas%27_Tongue",
+   "rating": null
+ },
+ {
+   "Name": "???'s Soul",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat The Lamb as ???",
+   "In Game Secret Number": "73",
+   "link": "/wiki/%3F%3F%3F%27s_Soul",
+   "rating": null
+ },
+ {
+   "Name": "Samson's Lock",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat The Lamb as Samson",
+   "In Game Secret Number": "74",
+   "link": "/wiki/Samson%27s_Lock",
+   "rating": null
+ },
+ {
+   "Name": "Cain's Eye",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat ??? as Cain",
+   "In Game Secret Number": "75",
+   "link": "/wiki/Cain%27s_Eye",
+   "rating": null
+ },
+ {
+   "Name": "Eve's Bird Foot",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Isaac as Eve",
+   "In Game Secret Number": "76",
+   "link": "/wiki/Eve%27s_Bird_Foot",
+   "rating": null
+ },
+ {
+   "Name": "The Left Hand",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Pride as any character, or ??? as Judas",
+   "In Game Secret Number": "77",
+   "link": "/wiki/The_Left_Hand",
+   "rating": null
+ },
+ {
+   "Name": "The Negative",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Satan 5 times",
+   "In Game Secret Number": "78",
+   "link": "/wiki/The_Negative",
+   "rating": null
+ },
+ {
+   "Name": "Azazel",
+   "Description": "Unlocked a new character.",
+   "Unlock": "Make 3 Deals with the Devil in one run",
+   "In Game Secret Number": "79",
+   "link": "/wiki/Azazel",
+   "rating": null
+ },
+ {
+   "Name": "Lazarus",
+   "Description": "Unlocked a new character.",
+   "Unlock": "Have 4 or more Soul Hearts at one time",
+   "In Game Secret Number": "80",
+   "link": "/wiki/Lazarus",
+   "rating": null
+ },
+ {
+   "Name": "Eden",
+   "Description": "Unlocked a new character.",
+   "Unlock": "Complete Chapter 4",
+   "In Game Secret Number": "81",
+   "link": "/wiki/Eden",
+   "rating": null
+ },
+ {
+   "Name": "The Lost",
+   "Description": "Unlocked a new character.",
+   "Unlock": "It's complicated\n Die in a Sacrifice Room while holding Missing Poster",
+   "In Game Secret Number": "82",
+   "link": "/wiki/The_Lost",
+   "rating": null
+ },
+ {
+   "Name": "Dead Boy",
+   "Description": "Beat Chest or Dark Room without taking damage.",
+   "Unlock": "Complete Chapter 6 without taking damage",
+   "In Game Secret Number": "83",
+   "link": "",
+   "rating": null
+ },
+ {
+   "Name": "The Real Platinum God",
+   "Description": "111% now stop playing!",
+   "Unlock": "Collect every non-DLC item, and unlock every secret and ending.",
+   "In Game Secret Number": "84",
+   "link": "",
+   "rating": null
+ },
+ {
+   "Name": "Lucky Rock",
+   "Description": "Destroy 100 rocks.",
+   "Unlock": "Destroy 100 rocks",
+   "In Game Secret Number": "85",
+   "link": "/wiki/Lucky_Rock",
+   "rating": null
+ },
+ {
+   "Name": "The Cellar",
+   "Description": "Alt stage to the basement.",
+   "Unlock": "Beat all Basement bosses ( except Baby Plum) (not restricted to beating bosses in The Basement)",
+   "In Game Secret Number": "86",
+   "link": "/wiki/The_Cellar",
+   "rating": null
+ },
+ {
+   "Name": "The Catacombs",
+   "Description": "Alt stage to the caves.",
+   "Unlock": "Beat all Caves bosses ( except Bumbino) (not restricted to beating bosses in The Caves)",
+   "In Game Secret Number": "87",
+   "link": "/wiki/The_Catacombs",
+   "rating": null
+ },
+ {
+   "Name": "The Necropolis",
+   "Description": "Alt stage to the depths.",
+   "Unlock": "Beat all Depths bosses ( except Reap Creep) (not restricted to beating bosses in The Depths)",
+   "In Game Secret Number": "88",
+   "link": "/wiki/Necropolis",
+   "rating": null
+ },
+ {
+   "Name": "Rune of Hagalaz",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete Pitch Black (challenge #1)",
+   "In Game Secret Number": "89",
+   "link": "/wiki/Runes",
+   "rating": null
+ },
+ {
+   "Name": "Rune of Jera",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete High Brow (challenge #2)",
+   "In Game Secret Number": "90",
+   "link": "/wiki/Runes",
+   "rating": null
+ },
+ {
+   "Name": "Rune of Ehwaz",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete Head Trauma (challenge #3)",
+   "In Game Secret Number": "91",
+   "link": "/wiki/Runes",
+   "rating": null
+ },
+ {
+   "Name": "Rune of Dagaz",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete Darkness Falls (challenge #4)",
+   "In Game Secret Number": "92",
+   "link": "/wiki/Runes",
+   "rating": null
+ },
+ {
+   "Name": "Rune of Ansuz",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete The Tank (challenge #5)",
+   "In Game Secret Number": "93",
+   "link": "/wiki/Runes",
+   "rating": null
+ },
+ {
+   "Name": "Rune of Perthro",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete Solar System (challenge #6)",
+   "In Game Secret Number": "94",
+   "link": "/wiki/Runes",
+   "rating": null
+ },
+ {
+   "Name": "Rune of Berkano",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete Purist (challenge #20)",
+   "In Game Secret Number": "95",
+   "link": "/wiki/Runes",
+   "rating": null
+ },
+ {
+   "Name": "Rune of Algiz",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete Cat Got Your Tongue (challenge #8)",
+   "In Game Secret Number": "96",
+   "link": "/wiki/Runes",
+   "rating": null
+ },
+ {
+   "Name": "Chaos Card",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete Demo Man (challenge #9)",
+   "In Game Secret Number": "97",
+   "link": "/wiki/Chaos_Card",
+   "rating": null
+ },
+ {
+   "Name": "Credit Card",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete Cursed! (challenge #10)",
+   "In Game Secret Number": "98",
+   "link": "/wiki/Credit_Card",
+   "rating": null
+ },
+ {
+   "Name": "Rules Card",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete Glass Cannon (challenge #11)",
+   "In Game Secret Number": "99",
+   "link": "/wiki/Rules_Card",
+   "rating": null
+ },
+ {
+   "Name": "Card Against Humanity",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete When Life Gives You Lemons (challenge #12)",
+   "In Game Secret Number": "100",
+   "link": "/wiki/A_Card_Against_Humanity",
+   "rating": null
+ },
+ {
+   "Name": "Swallowed Penny",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete Slow Roll (challenge #15)",
+   "In Game Secret Number": "101",
+   "link": "/wiki/Swallowed_Penny",
+   "rating": null
+ },
+ {
+   "Name": "Robo-Baby 2.0",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete Computer Savvy (challenge #16)",
+   "In Game Secret Number": "102",
+   "link": "/wiki/Robo-Baby_2.0",
+   "rating": null
+ },
+ {
+   "Name": "Death's Touch",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete Waka Waka (challenge #17)",
+   "In Game Secret Number": "103",
+   "link": "/wiki/Death%27s_Touch",
+   "rating": 2
+ },
+ {
+   "Name": "Technology .5",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete The Host (challenge #18)",
+   "In Game Secret Number": "104",
+   "link": "/wiki/Tech.5",
+   "rating": 1
+ },
+ {
+   "Name": "Missing No.",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete the Boss Rush as Lazarus",
+   "In Game Secret Number": "105",
+   "link": "/wiki/Missing_No.",
+   "rating": null
+ },
+ {
+   "Name": "Isaac's Tears",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Isaac as Isaac",
+   "In Game Secret Number": "106",
+   "link": "/wiki/Isaac%27s_Tears",
+   "rating": null
+ },
+ {
+   "Name": "Guillotine",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Isaac as Judas",
+   "In Game Secret Number": "107",
+   "link": "/wiki/Guillotine",
+   "rating": null
+ },
+ {
+   "Name": "Judas' Shadow",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete the Boss Rush as Judas",
+   "In Game Secret Number": "108",
+   "link": "/wiki/Judas%27_Shadow",
+   "rating": 3
+ },
+ {
+   "Name": "Maggy's Bow",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete the Boss Rush as Magdalene",
+   "In Game Secret Number": "109",
+   "link": "/wiki/Maggy%27s_Bow",
+   "rating": null
+ },
+ {
+   "Name": "Cain's Other Eye",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete the Boss Rush as Cain",
+   "In Game Secret Number": "110",
+   "link": "/wiki/Cain%27s_Other_Eye",
+   "rating": null
+ },
+ {
+   "Name": "Black Lipstick",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat The Lamb as Eve",
+   "In Game Secret Number": "111",
+   "link": "/wiki/Black_Lipstick",
+   "rating": null
+ },
+ {
+   "Name": "Eve's Mascara",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete the Boss Rush as Eve",
+   "In Game Secret Number": "112",
+   "link": "/wiki/Eve%27s_Mascara",
+   "rating": 3
+ },
+ {
+   "Name": "Fate",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat ??? as ???",
+   "In Game Secret Number": "113",
+   "link": "/wiki/Fate",
+   "rating": 3
+ },
+ {
+   "Name": "???'s Only Friend",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete the Boss Rush as ???",
+   "In Game Secret Number": "114",
+   "link": "/wiki/%3F%3F%3F%27s_Only_Friend",
+   "rating": null
+ },
+ {
+   "Name": "Samson's Chains",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete the Boss Rush as Samson",
+   "In Game Secret Number": "115",
+   "link": "/wiki/Samson%27s_Chains",
+   "rating": null
+ },
+ {
+   "Name": "Lazarus' Rags",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Isaac as Lazarus",
+   "In Game Secret Number": "116",
+   "link": "/wiki/Lazarus%27_Rags",
+   "rating": null
+ },
+ {
+   "Name": "Broken Ankh",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Satan as Lazarus",
+   "In Game Secret Number": "117",
+   "link": "/wiki/Broken_Ankh",
+   "rating": null
+ },
+ {
+   "Name": "Store Credit",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat ??? as Lazarus",
+   "In Game Secret Number": "118",
+   "link": "/wiki/Store_Credit",
+   "rating": null
+ },
+ {
+   "Name": "Pandora's Box",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat The Lamb as Lazarus",
+   "In Game Secret Number": "119",
+   "link": "/wiki/Pandora%27s_Box",
+   "rating": 3
+ },
+ {
+   "Name": "Suicide King",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete Suicide King (challenge #7)",
+   "In Game Secret Number": "120",
+   "link": "/wiki/Suicide_King",
+   "rating": null
+ },
+ {
+   "Name": "Blank Card",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Isaac as Eden",
+   "In Game Secret Number": "121",
+   "link": "/wiki/Blank_Card",
+   "rating": null
+ },
+ {
+   "Name": "Book of Secrets",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Satan as Eden",
+   "In Game Secret Number": "122",
+   "link": "/wiki/Book_of_Secrets",
+   "rating": null
+ },
+ {
+   "Name": "Mysterious Paper",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat ??? as Eden",
+   "In Game Secret Number": "123",
+   "link": "/wiki/Mysterious_Paper",
+   "rating": null
+ },
+ {
+   "Name": "Mystery Sack",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat The Lamb as Eden",
+   "In Game Secret Number": "124",
+   "link": "/wiki/Mystery_Sack",
+   "rating": null
+ },
+ {
+   "Name": "Undefined",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete the Boss Rush as Eden",
+   "In Game Secret Number": "125",
+   "link": "/wiki/Undefined",
+   "rating": null
+ },
+ {
+   "Name": "Satanic Bible",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Isaac as Azazel",
+   "In Game Secret Number": "126",
+   "link": "/wiki/Satanic_Bible",
+   "rating": null
+ },
+ {
+   "Name": "Daemon's Tail",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Satan as Azazel",
+   "In Game Secret Number": "127",
+   "link": "/wiki/Daemon%27s_Tail",
+   "rating": null
+ },
+ {
+   "Name": "Abaddon",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat ??? as Azazel",
+   "In Game Secret Number": "128",
+   "link": "/wiki/Abaddon",
+   "rating": 3
+ },
+ {
+   "Name": "Isaac's Heart",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Isaac as The Lost",
+   "In Game Secret Number": "129",
+   "link": "/wiki/Isaac%27s_Heart",
+   "rating": null
+ },
+ {
+   "Name": "The Mind",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Satan as The Lost",
+   "In Game Secret Number": "130",
+   "link": "/wiki/The_Mind",
+   "rating": 3
+ },
+ {
+   "Name": "The Body",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat ??? as The Lost",
+   "In Game Secret Number": "131",
+   "link": "/wiki/The_Body",
+   "rating": null
+ },
+ {
+   "Name": "The Soul",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat The Lamb as The Lost",
+   "In Game Secret Number": "132",
+   "link": "/wiki/The_Soul",
+   "rating": null
+ },
+ {
+   "Name": "The D100",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete the Boss Rush as The Lost",
+   "In Game Secret Number": "133",
+   "link": "/wiki/D100",
+   "rating": 3
+ },
+ {
+   "Name": "Blue Map",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Donate 10 Coins to the Donation Machine",
+   "In Game Secret Number": "134",
+   "link": "/wiki/Blue_Map",
+   "rating": null
+ },
+ {
+   "Name": "There's Options",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Donate 50 Coins to the Donation Machine",
+   "In Game Secret Number": "135",
+   "link": "/wiki/There%27s_Options",
+   "rating": null
+ },
+ {
+   "Name": "Black Candle",
+   "Description": "Unlocked a new item",
+   "Unlock": "Donate 150 Coins to the Donation Machine",
+   "In Game Secret Number": "136",
+   "link": "/wiki/Black_Candle",
+   "rating": 3
+ },
+ {
+   "Name": "Red Candle",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Donate 400 Coins to the Donation Machine",
+   "In Game Secret Number": "137",
+   "link": "/wiki/Red_Candle",
+   "rating": null
+ },
+ {
+   "Name": "Stop Watch",
+   "Description": "Unlocked a new item",
+   "Unlock": "Donate 999 Coins to the Donation Machine",
+   "In Game Secret Number": "138",
+   "link": "/wiki/Stop_Watch",
+   "rating": 3
+ },
+ {
+   "Name": "Wire Coat Hanger",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Mom's Heart 4 times",
+   "In Game Secret Number": "139",
+   "link": "/wiki/Wire_Coat_Hanger",
+   "rating": 3
+ },
+ {
+   "Name": "Ipecac",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Mom's Heart 6 times",
+   "In Game Secret Number": "140",
+   "link": "/wiki/Ipecac",
+   "rating": 2
+ },
+ {
+   "Name": "Experimental Treatment",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Mom's Heart 7 times",
+   "In Game Secret Number": "141",
+   "link": "/wiki/Experimental_Treatment",
+   "rating": null
+ },
+ {
+   "Name": "Krampus",
+   "Description": "Unlocked another miniboss!",
+   "Unlock": "Take 20 items from Devil Rooms",
+   "In Game Secret Number": "142",
+   "link": "/wiki/Krampus",
+   "rating": null
+ },
+ {
+   "Name": "Head of Krampus",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Krampus",
+   "In Game Secret Number": "143",
+   "link": "/wiki/Head_of_Krampus",
+   "rating": null
+ },
+ {
+   "Name": "Super Meat Boy",
+   "Description": "Built him out of meat cubes.",
+   "Unlock": "Make a Super Meat Boy by picking up 4 copies of Cube of Meat in one run; see Unlocking Super Meat Boy & Super Bandage Girl",
+   "In Game Secret Number": "144",
+   "link": "/wiki/Cube_of_Meat",
+   "rating": null
+ },
+ {
+   "Name": "Butter Bean",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Destroy 100 Poops",
+   "In Game Secret Number": "145",
+   "link": "/wiki/Butter_Bean",
+   "rating": null
+ },
+ {
+   "Name": "Little Baggy",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Pick up any 2 of the following items in a single run: Roid Rage, The Virus, Growth Hormones, Experimental Treatment, and Speed Ball ( Any 2 items that have the 'syringe' item tag)",
+   "In Game Secret Number": "146",
+   "link": "/wiki/Little_Baggy",
+   "rating": null
+ },
+ {
+   "Name": "Blood Bag",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Use the Blood Donation Machine 30 times",
+   "In Game Secret Number": "147",
+   "link": "/wiki/Blood_Bag",
+   "rating": null
+ },
+ {
+   "Name": "The D4",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Blow up 30 Slot Machine",
+   "In Game Secret Number": "148",
+   "link": "/wiki/D4",
+   "rating": 2
+ },
+ {
+   "Name": "Missing Poster",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat The Lamb as Isaac",
+   "In Game Secret Number": "149",
+   "link": "/wiki/Missing_Poster",
+   "rating": null
+ },
+ {
+   "Name": "Rubber Cement",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Mom's Heart 2 times",
+   "In Game Secret Number": "150",
+   "link": "/wiki/Rubber_Cement",
+   "rating": 2
+ },
+ {
+   "Name": "Store Upgrade lv.1",
+   "Description": "Donated 20 pennies to the shop.",
+   "Unlock": "Donate 20 Coins to the Donation Machine",
+   "In Game Secret Number": "151",
+   "link": "/wiki/Shop#Levels",
+   "rating": null
+ },
+ {
+   "Name": "Store Upgrade lv.2",
+   "Description": "Donated 100 pennies to the shop.",
+   "Unlock": "Donate 100 Coins to the Donation Machine",
+   "In Game Secret Number": "152",
+   "link": "/wiki/Shop#Levels",
+   "rating": null
+ },
+ {
+   "Name": "Store Upgrade lv.3",
+   "Description": "Donated 200 pennies to the shop.",
+   "Unlock": "Donate 200 Coins to the Donation Machine",
+   "In Game Secret Number": "153",
+   "link": "/wiki/Shop#Levels",
+   "rating": null
+ },
+ {
+   "Name": "Store Upgrade lv.4",
+   "Description": "Donated 600 pennies to the shop.",
+   "Unlock": "Donate 600 Coins to the Donation Machine",
+   "In Game Secret Number": "154",
+   "link": "/wiki/Shop#Levels",
+   "rating": null
+ },
+ {
+   "Name": "Angels",
+   "Description": "They are waiting.",
+   "Unlock": "Complete Chapter 6",
+   "In Game Secret Number": "155",
+   "link": "/wiki/Angel",
+   "rating": null
+ },
+ {
+   "Name": "Godhead",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Earn all 5 / 9 (except Ultra Greed) / 10 / 12 Completion Marks on Hard mode as The Lost",
+   "In Game Secret Number": "156",
+   "link": "/wiki/Godhead",
+   "rating": 1
+ },
+ {
+   "Name": "Darkness Falls",
+   "Description": "Unlocked Challenge #4.",
+   "Unlock": "Defeat Mom's Heart 11 times\n Defeat Satan and ??? as Eve",
+   "In Game Secret Number": "157",
+   "link": "/wiki/Darkness_Falls",
+   "rating": null
+ },
+ {
+   "Name": "The Tank",
+   "Description": "Unlocked Challenge #5.",
+   "Unlock": "Have 7 or more Red Heart Containers at one time",
+   "In Game Secret Number": "158",
+   "link": "/wiki/The_Tank",
+   "rating": null
+ },
+ {
+   "Name": "Solar System",
+   "Description": "Unlocked Challenge #6.",
+   "Unlock": "Defeat Mom's Heart 3 times",
+   "In Game Secret Number": "159",
+   "link": "/wiki/Solar_System",
+   "rating": null
+ },
+ {
+   "Name": "Suicide King",
+   "Description": "Unlocked Challenge #7.",
+   "Unlock": "Defeat Mom's Heart 11 times",
+   "In Game Secret Number": "160",
+   "link": "/wiki/Suicide_King_(Challenge)",
+   "rating": null
+ },
+ {
+   "Name": "Cat Got Your Tongue",
+   "Description": "Unlocked Challenge #8.",
+   "Unlock": "Become Guppy",
+   "In Game Secret Number": "161",
+   "link": "/wiki/Cat_Got_Your_Tongue",
+   "rating": null
+ },
+ {
+   "Name": "Demo Man",
+   "Description": "Unlocked Challenge #9.",
+   "Unlock": "Defeat Mom's Heart 9 times",
+   "In Game Secret Number": "162",
+   "link": "/wiki/Demo_Man",
+   "rating": null
+ },
+ {
+   "Name": "Cursed!",
+   "Description": "Unlocked Challenge #10.",
+   "Unlock": "Have 7 or more Red Heart Containers at one time",
+   "In Game Secret Number": "163",
+   "link": "/wiki/Cursed!",
+   "rating": null
+ },
+ {
+   "Name": "Glass Cannon",
+   "Description": "Unlocked Challenge #11.",
+   "Unlock": "Beat The Family Man (challenge #19) and defeat Lokii",
+   "In Game Secret Number": "164",
+   "link": "/wiki/Glass_Cannon_(Challenge)",
+   "rating": null
+ },
+ {
+   "Name": "The Family Man",
+   "Description": "Unlocked Challenge #19.",
+   "Unlock": "Pick up both Key Pieces from the Angels in one run",
+   "In Game Secret Number": "165",
+   "link": "/wiki/The_Family_Man",
+   "rating": null
+ },
+ {
+   "Name": "Purist",
+   "Description": "Unlocked Challenge #20.",
+   "Unlock": "Defeat Mom",
+   "In Game Secret Number": "166",
+   "link": "/wiki/Purist",
+   "rating": null
+ },
+ {
+   "Name": "Lost Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mom's Heart on Hard mode as Isaac",
+   "In Game Secret Number": "167",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Cute Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mom's Heart on Hard mode as Magdalene",
+   "In Game Secret Number": "168",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Crow Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mom's Heart on Hard mode as Eve",
+   "In Game Secret Number": "169",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Shadow Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mom's Heart on Hard mode as Judas",
+   "In Game Secret Number": "170",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Glass Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mom's Heart on Hard mode as Cain",
+   "In Game Secret Number": "171",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Wrapped Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mom's Heart on Hard mode as Azazel\n Defeat Mom's Heart on Hard mode as Lazarus",
+   "In Game Secret Number": "172",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Begotten Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mom's Heart on Hard mode as Lazarus\n Defeat Mom's Heart on Hard mode as Azazel",
+   "In Game Secret Number": "173",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Dead Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mom's Heart on Hard mode as ???",
+   "In Game Secret Number": "174",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "-0- Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mom's Heart on Hard mode as The Lost",
+   "In Game Secret Number": "175",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Glitch Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mom's Heart on Hard mode as Eden",
+   "In Game Secret Number": "176",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Fighting Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mom's Heart on Hard mode as Samson",
+   "In Game Secret Number": "177",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Lord of the Flies",
+   "Description": "You became Lord of the Flies.",
+   "Unlock": "Become Beelzebub",
+   "In Game Secret Number": "178",
+   "link": "/wiki/Beelzebub",
+   "rating": null
+ },
+ {
+   "Name": "Fart Baby",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Hush as Isaac",
+   "In Game Secret Number": "179",
+   "link": "/wiki/Farting_Baby",
+   "rating": null
+ },
+ {
+   "Name": "Purity",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Hush as Magdalene",
+   "In Game Secret Number": "180",
+   "link": "/wiki/Purity",
+   "rating": 3
+ },
+ {
+   "Name": "D12",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Hush as Cain",
+   "In Game Secret Number": "181",
+   "link": "/wiki/D12",
+   "rating": null
+ },
+ {
+   "Name": "Betrayal",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Hush as Judas",
+   "In Game Secret Number": "182",
+   "link": "/wiki/Betrayal",
+   "rating": null
+ },
+ {
+   "Name": "Fate's Reward",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Hush as ???",
+   "In Game Secret Number": "183",
+   "link": "/wiki/Fate%27s_Reward",
+   "rating": null
+ },
+ {
+   "Name": "Athame",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Hush as Eve",
+   "In Game Secret Number": "184",
+   "link": "/wiki/Athame",
+   "rating": 3
+ },
+ {
+   "Name": "Blind Rage",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Hush as Samson",
+   "In Game Secret Number": "185",
+   "link": "/wiki/Blind_Rage",
+   "rating": null
+ },
+ {
+   "Name": "Maw of the Void",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Hush as Azazel",
+   "In Game Secret Number": "186",
+   "link": "/wiki/Maw_of_the_Void",
+   "rating": 2
+ },
+ {
+   "Name": "Empty Vessel",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Hush as Lazarus",
+   "In Game Secret Number": "187",
+   "link": "/wiki/Empty_Vessel",
+   "rating": 3
+ },
+ {
+   "Name": "Eden's Blessing",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Hush as Eden",
+   "In Game Secret Number": "188",
+   "link": "/wiki/Eden%27s_Blessing",
+   "rating": 3
+ },
+ {
+   "Name": "Sworn Protector",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Hush as The Lost",
+   "In Game Secret Number": "189",
+   "link": "/wiki/Sworn_Protector",
+   "rating": null
+ },
+ {
+   "Name": "Incubus",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Hush as Lilith",
+   "In Game Secret Number": "190",
+   "link": "/wiki/Incubus",
+   "rating": 2
+ },
+ {
+   "Name": "Keeper now holds... A Penny!",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Hush as Keeper",
+   "In Game Secret Number": "191",
+   "link": "/wiki/Keeper",
+   "rating": null
+ },
+ {
+   "Name": "Lil' Chest",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greed as Isaac",
+   "In Game Secret Number": "192",
+   "link": "/wiki/Lil_Chest",
+   "rating": null
+ },
+ {
+   "Name": "Censer",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greed as Magdalene",
+   "In Game Secret Number": "193",
+   "link": "/wiki/Censer",
+   "rating": 3
+ },
+ {
+   "Name": "Evil Eye",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greed as Cain",
+   "In Game Secret Number": "194",
+   "link": "/wiki/Evil_Eye",
+   "rating": null
+ },
+ {
+   "Name": "My Shadow",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greed as Judas",
+   "In Game Secret Number": "195",
+   "link": "/wiki/My_Shadow",
+   "rating": null
+ },
+ {
+   "Name": "Cracked Dice",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greed as ???",
+   "In Game Secret Number": "196",
+   "link": "/wiki/Cracked_Dice",
+   "rating": null
+ },
+ {
+   "Name": "Black Feather",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greed as Eve",
+   "In Game Secret Number": "197",
+   "link": "/wiki/Black_Feather",
+   "rating": null
+ },
+ {
+   "Name": "Lusty Blood",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greed as Samson",
+   "In Game Secret Number": "198",
+   "link": "/wiki/Lusty_Blood",
+   "rating": 3
+ },
+ {
+   "Name": "Lilith",
+   "Description": "Unlocked a new character.",
+   "Unlock": "Defeat Ultra Greed as Azazel",
+   "In Game Secret Number": "199",
+   "link": "/wiki/Lilith",
+   "rating": null
+ },
+ {
+   "Name": "Key Bum",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greed as Lazarus",
+   "In Game Secret Number": "200",
+   "link": "/wiki/Key_Bum",
+   "rating": null
+ },
+ {
+   "Name": "GB Bug",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greed as Eden",
+   "In Game Secret Number": "201",
+   "link": "/wiki/GB_Bug",
+   "rating": null
+ },
+ {
+   "Name": "Zodiac",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greed as The Lost",
+   "In Game Secret Number": "202",
+   "link": "/wiki/Zodiac",
+   "rating": null
+ },
+ {
+   "Name": "Box of Friends",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greed as Lilith",
+   "In Game Secret Number": "203",
+   "link": "/wiki/Box_of_Friends",
+   "rating": null
+ },
+ {
+   "Name": "Rib of Greed",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greed as Keeper",
+   "In Game Secret Number": "204",
+   "link": "/wiki/Rib_of_Greed",
+   "rating": null
+ },
+ {
+   "Name": "Cry Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mega Satan as Isaac",
+   "In Game Secret Number": "205",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Red Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mega Satan as Magdalene",
+   "In Game Secret Number": "206",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Green Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mega Satan as Cain",
+   "In Game Secret Number": "207",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Brown Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mega Satan as Judas",
+   "In Game Secret Number": "208",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Blue Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mega Satan as ???",
+   "In Game Secret Number": "209",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Lil' Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mega Satan as Eve",
+   "In Game Secret Number": "210",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Rage Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mega Satan as Samson",
+   "In Game Secret Number": "211",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Black Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mega Satan as Azazel",
+   "In Game Secret Number": "212",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Long Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mega Satan as Lazarus",
+   "In Game Secret Number": "213",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Yellow Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mega Satan as Eden",
+   "In Game Secret Number": "214",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "White Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mega Satan as The Lost",
+   "In Game Secret Number": "215",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Big Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mega Satan as Lilith",
+   "In Game Secret Number": "216",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Noose Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mega Satan as Keeper",
+   "In Game Secret Number": "217",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Rune Bag",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Isaac as Lilith",
+   "In Game Secret Number": "218",
+   "link": "/wiki/Rune_Bag",
+   "rating": null
+ },
+ {
+   "Name": "Cambion Conception",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat ??? as Lilith",
+   "In Game Secret Number": "219",
+   "link": "/wiki/Cambion_Conception",
+   "rating": null
+ },
+ {
+   "Name": "Serpent's Kiss",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Satan as Lilith",
+   "In Game Secret Number": "220",
+   "link": "/wiki/Serpent%27s_Kiss",
+   "rating": null
+ },
+ {
+   "Name": "Succubus",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat The Lamb as Lilith",
+   "In Game Secret Number": "221",
+   "link": "/wiki/Succubus",
+   "rating": 3
+ },
+ {
+   "Name": "Immaculate Conception",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete the Boss Rush as Lilith",
+   "In Game Secret Number": "222",
+   "link": "/wiki/Immaculate_Conception",
+   "rating": null
+ },
+ {
+   "Name": "Goat Head Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mom's Heart on Hard mode as Lilith",
+   "In Game Secret Number": "223",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Gold Heart",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete XXXXXXXXL (challenge #21)",
+   "In Game Secret Number": "224",
+   "link": "/wiki/Hearts_(Pickup)",
+   "rating": null
+ },
+ {
+   "Name": "Get out of Jail Free Card",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete SPEED! (challenge #22)",
+   "In Game Secret Number": "225",
+   "link": "/wiki/Get_out_of_Jail_Free_Card",
+   "rating": null
+ },
+ {
+   "Name": "Gold Bomb",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete Blue Bomber (challenge #23)",
+   "In Game Secret Number": "226",
+   "link": "/wiki/Gold_Bomb",
+   "rating": null
+ },
+ {
+   "Name": "2 new pills",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete PAY TO PLAY (challenge #24)",
+   "In Game Secret Number": "227",
+   "link": "/wiki/Percs!",
+   "rating": null
+ },
+ {
+   "Name": "2 new pills",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete Have a Heart (challenge #25)",
+   "In Game Secret Number": "228",
+   "link": "/wiki/Re-Lax",
+   "rating": null
+ },
+ {
+   "Name": "Poker Chip",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete I RULE! (challenge #26)",
+   "In Game Secret Number": "229",
+   "link": "/wiki/Poker_Chip",
+   "rating": null
+ },
+ {
+   "Name": "Stud Finder",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete BRAINS! (challenge #27)",
+   "In Game Secret Number": "230",
+   "link": "/wiki/Stud_Finder",
+   "rating": null
+ },
+ {
+   "Name": "D8",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete PRIDE DAY! (challenge #28)",
+   "In Game Secret Number": "231",
+   "link": "/wiki/D8",
+   "rating": null
+ },
+ {
+   "Name": "Kidney Stone",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete The Guardian (challenge #30)\n Complete Onan's Streak (challenge #29)",
+   "In Game Secret Number": "232",
+   "link": "/wiki/Kidney_Stone",
+   "rating": null
+ },
+ {
+   "Name": "Blank Rune",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete Onan's Streak (challenge #29)\n Complete The Guardian (challenge #30)",
+   "In Game Secret Number": "233",
+   "link": "/wiki/Blank_Rune_(Achievement)",
+   "rating": null
+ },
+ {
+   "Name": "Blue Womb",
+   "Description": "Unlocked a hidden chapter.",
+   "Unlock": "Defeat Mom's Heart 10 times",
+   "In Game Secret Number": "234",
+   "link": "/wiki/Blue_Womb",
+   "rating": null
+ },
+ {
+   "Name": "1001%",
+   "Description": "Nerd x 1000000",
+   "Unlock": "Unlock all secrets and endings, and collect every item in the game",
+   "In Game Secret Number": "235",
+   "link": "/wiki/Keeper",
+   "rating": null
+ },
+ {
+   "Name": "Keeper holds Wooden Nickel",
+   "Description": "Unlocked a new starting item.",
+   "Unlock": "Defeat Isaac as Keeper",
+   "In Game Secret Number": "236",
+   "link": "",
+   "rating": null
+ },
+ {
+   "Name": "Keeper holds Store Key",
+   "Description": "Unlocked a new starting item.",
+   "Unlock": "Defeat Satan as Keeper",
+   "In Game Secret Number": "237",
+   "link": "/wiki/Keeper",
+   "rating": null
+ },
+ {
+   "Name": "Deep Pockets",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat ??? as Keeper",
+   "In Game Secret Number": "238",
+   "link": "/wiki/Deep_Pockets",
+   "rating": null
+ },
+ {
+   "Name": "Karma",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat The Lamb as Keeper",
+   "In Game Secret Number": "239",
+   "link": "/wiki/Karma",
+   "rating": null
+ },
+ {
+   "Name": "Sticky Nickels",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete the Boss Rush as Keeper",
+   "In Game Secret Number": "240",
+   "link": "/wiki/Sticky_nickel",
+   "rating": null
+ },
+ {
+   "Name": "Super Greed Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mom's Heart on Hard mode as Keeper",
+   "In Game Secret Number": "241",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Lucky Pennies",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Donate 1 Coin to the Greed Donation Machine",
+   "In Game Secret Number": "242",
+   "link": "/wiki/Lucky_penny",
+   "rating": null
+ },
+ {
+   "Name": "Special Hanging Shopkeepers",
+   "Description": "Unlocked a secret.",
+   "Unlock": "Donate 10 Coins to the Greed Donation Machine",
+   "In Game Secret Number": "243",
+   "link": "/wiki/Special_shopkeeper",
+   "rating": null
+ },
+ {
+   "Name": "Wooden Nickel",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Donate 30 Coins to the Greed Donation Machine",
+   "In Game Secret Number": "244",
+   "link": "/wiki/Wooden_Nickel",
+   "rating": null
+ },
+ {
+   "Name": "Cain holds Paperclip",
+   "Description": "Unlocked a new starting item.",
+   "Unlock": "Donate 68 Coins to the Greed Donation Machine",
+   "In Game Secret Number": "245",
+   "link": "/wiki/Cain",
+   "rating": null
+ },
+ {
+   "Name": "Everything is Terrible 2!!!",
+   "Description": "Greed just got harder!",
+   "Unlock": "Donate 111 Coins to the Greed Donation Machine",
+   "In Game Secret Number": "246",
+   "link": "/wiki/Ultra_Greed",
+   "rating": null
+ },
+ {
+   "Name": "Special Shopkeepers",
+   "Description": "Unlocked a secret.",
+   "Unlock": "Donate 234 Coins to the Greed Donation Machine",
+   "In Game Secret Number": "247",
+   "link": "/wiki/Special_shopkeeper",
+   "rating": null
+ },
+ {
+   "Name": "Eve now holds Razor Blade",
+   "Description": "Unlocked a new starting item.",
+   "Unlock": "Donate 439 Coins to the Greed Donation Machine",
+   "In Game Secret Number": "248",
+   "link": "/wiki/Eve",
+   "rating": null
+ },
+ {
+   "Name": "Store Key",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Donate 666 Coins to the Greed Donation Machine",
+   "In Game Secret Number": "249",
+   "link": "/wiki/Store_Key",
+   "rating": null
+ },
+ {
+   "Name": "Lost holds Holy Mantle",
+   "Description": "Unlocked a new starting item.",
+   "Unlock": "Donate 879 Coins to the Greed Donation Machine",
+   "In Game Secret Number": "250",
+   "link": "/wiki/The_Lost",
+   "rating": null
+ },
+ {
+   "Name": "Keeper",
+   "Description": "Unlocked a new character.",
+   "Unlock": "Donate 1000 Coins to the Greed Donation Machine",
+   "In Game Secret Number": "251",
+   "link": "/wiki/Keeper",
+   "rating": null
+ },
+ {
+   "Name": "Hive Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Earn all Hard mode Completion Marks as ???",
+   "In Game Secret Number": "252",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Buddy Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Earn all Hard mode Completion Marks as Isaac",
+   "In Game Secret Number": "253",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Colorful Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Earn all Hard mode Completion Marks as Magdalene",
+   "In Game Secret Number": "254",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Whore Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Earn all Hard mode Completion Marks as Eve",
+   "In Game Secret Number": "255",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Cracked Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Earn all Hard mode Completion Marks as Eden",
+   "In Game Secret Number": "256",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Dripping Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Earn all Hard mode Completion Marks as Lazarus",
+   "In Game Secret Number": "257",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Blinding Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Use Blank Card while holding XIX - The Sun",
+   "In Game Secret Number": "258",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Sucky Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Earn all Hard mode Completion Marks as Azazel",
+   "In Game Secret Number": "259",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Dark Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Earn all Hard mode Completion Marks as Lilith",
+   "In Game Secret Number": "260",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Picky Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Earn all Hard mode Completion Marks as Cain",
+   "In Game Secret Number": "261",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Revenge Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Earn all Hard mode Completion Marks as Samson",
+   "In Game Secret Number": "262",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Belial Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Earn all Hard mode Completion Marks as Judas",
+   "In Game Secret Number": "263",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Sale Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Earn all Hard mode Completion Marks as Keeper",
+   "In Game Secret Number": "264",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "XXXXXXXXL",
+   "Description": "Unlocked Challenge #21.",
+   "Unlock": "Defeat Mom",
+   "In Game Secret Number": "265",
+   "link": "/wiki/XXXXXXXXL",
+   "rating": null
+ },
+ {
+   "Name": "SPEED!",
+   "Description": "Unlocked Challenge #22.",
+   "Unlock": "Defeat Mom",
+   "In Game Secret Number": "266",
+   "link": "/wiki/SPEED!",
+   "rating": null
+ },
+ {
+   "Name": "Blue Bomber",
+   "Description": "Unlocked Challenge #23.",
+   "Unlock": "Destroy 10 Tinted Rocks and defeat Mom's Heart 11 times",
+   "In Game Secret Number": "267",
+   "link": "/wiki/Blue_Bomber",
+   "rating": null
+ },
+ {
+   "Name": "PAY TO PLAY",
+   "Description": "Unlocked Challenge #24.",
+   "Unlock": "Defeat Isaac as Cain",
+   "In Game Secret Number": "268",
+   "link": "/wiki/PAY_TO_PLAY",
+   "rating": null
+ },
+ {
+   "Name": "Have a Heart",
+   "Description": "Unlocked Challenge #25.",
+   "Unlock": "Defeat Mom",
+   "In Game Secret Number": "269",
+   "link": "/wiki/Have_a_Heart",
+   "rating": null
+ },
+ {
+   "Name": "I RULE!",
+   "Description": "Unlocked Challenge #26.",
+   "Unlock": "Defeat ??? or The Lamb, and defeat Satan as Isaac\n Defeat Mega Satan",
+   "In Game Secret Number": "270",
+   "link": "/wiki/I_RULE!",
+   "rating": null
+ },
+ {
+   "Name": "BRAINS!",
+   "Description": "Unlocked Challenge #27.",
+   "Unlock": "Defeat Isaac 5 times",
+   "In Game Secret Number": "271",
+   "link": "/wiki/BRAINS!",
+   "rating": null
+ },
+ {
+   "Name": "PRIDE DAY!",
+   "Description": "Unlocked Challenge #28.",
+   "Unlock": "Defeat Mom",
+   "In Game Secret Number": "272",
+   "link": "/wiki/PRIDE_DAY!",
+   "rating": null
+ },
+ {
+   "Name": "Onan's Streak",
+   "Description": "Unlocked Challenge #29.",
+   "Unlock": "Defeat Mom\n Unlock Judas and It Lives.",
+   "In Game Secret Number": "273",
+   "link": "/wiki/Onan%27s_Streak",
+   "rating": null
+ },
+ {
+   "Name": "The Guardian",
+   "Description": "Unlocked Challenge #30.",
+   "Unlock": "Defeat Mom",
+   "In Game Secret Number": "274",
+   "link": "/wiki/The_Guardian",
+   "rating": null
+ },
+ {
+   "Name": "Generosity",
+   "Description": "If only everyone was as generous as you are...",
+   "Unlock": "Donate 999 Coins to the Greed Donation Machine",
+   "In Game Secret Number": "275",
+   "link": "/wiki/Greed_machine",
+   "rating": null
+ },
+ {
+   "Name": "Mega",
+   "Description": "Unlocked...",
+   "Unlock": "Defeat Mega Satan as every character ( except Tainted characters)",
+   "In Game Secret Number": "276",
+   "link": "/wiki/Mega_Blast",
+   "rating": 1
+ },
+ {
+   "Name": "Backasswards",
+   "Description": "Unlocked a new challenge.",
+   "Unlock": "Defeat ??? or The Lamb\n Defeat Mega Satan",
+   "In Game Secret Number": "277",
+   "link": "/wiki/Backasswards",
+   "rating": null
+ },
+ {
+   "Name": "Aprils fool",
+   "Description": "Unlocked a new challenge.",
+   "Unlock": "Defeat Mom",
+   "In Game Secret Number": "278",
+   "link": "/wiki/Aprils_Fool",
+   "rating": null
+ },
+ {
+   "Name": "Pokey Mans",
+   "Description": "Unlocked a new challenge.",
+   "Unlock": "Defeat Mom's Heart 11 times",
+   "In Game Secret Number": "279",
+   "link": "/wiki/Pokey_Mans",
+   "rating": null
+ },
+ {
+   "Name": "Ultra Hard",
+   "Description": "Unlocked a new challenge.",
+   "Unlock": "Defeat ??? or The Lamb. Possession of The Polaroid / The Negative is required, barring getting to Dark Room through a Sacrifice Room.\n Defeat Mega Satan",
+   "In Game Secret Number": "280",
+   "link": "/wiki/Ultra_Hard",
+   "rating": null
+ },
+ {
+   "Name": "PONG",
+   "Description": "Unlocked a new challenge.",
+   "Unlock": "Defeat Isaac 5 times",
+   "In Game Secret Number": "281",
+   "link": "/wiki/Pong",
+   "rating": null
+ },
+ {
+   "Name": "D Infinity",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Delirium as Isaac",
+   "In Game Secret Number": "282",
+   "link": "/wiki/D_Infinity",
+   "rating": 1
+ },
+ {
+   "Name": "Eucharist",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Delirium as Magdalene",
+   "In Game Secret Number": "283",
+   "link": "/wiki/Eucharist",
+   "rating": 3
+ },
+ {
+   "Name": "Silver Dollar",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Delirium as Cain",
+   "In Game Secret Number": "284",
+   "link": "/wiki/Silver_Dollar",
+   "rating": null
+ },
+ {
+   "Name": "Shade",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Delirium as Judas",
+   "In Game Secret Number": "285",
+   "link": "/wiki/Shade",
+   "rating": null
+ },
+ {
+   "Name": "King Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Delirium as ???",
+   "In Game Secret Number": "286",
+   "link": "/wiki/King_Baby",
+   "rating": null
+ },
+ {
+   "Name": "Bloody Crown",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Delirium as Samson",
+   "In Game Secret Number": "287",
+   "link": "/wiki/Bloody_Crown",
+   "rating": null
+ },
+ {
+   "Name": "Dull Razor",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Delirium as Eve",
+   "In Game Secret Number": "288",
+   "link": "/wiki/Dull_Razor",
+   "rating": null
+ },
+ {
+   "Name": "Eden's Soul",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Delirium as Eden",
+   "In Game Secret Number": "289",
+   "link": "/wiki/Eden%27s_Soul",
+   "rating": null
+ },
+ {
+   "Name": "Dark Prince's Crown",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Delirium as Azazel",
+   "In Game Secret Number": "290",
+   "link": "/wiki/Dark_Prince%27s_Crown",
+   "rating": null
+ },
+ {
+   "Name": "Compound Fracture",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Delirium as Lazarus",
+   "In Game Secret Number": "291",
+   "link": "/wiki/Compound_Fracture",
+   "rating": 3
+ },
+ {
+   "Name": "Euthanasia",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Delirium as Lilith",
+   "In Game Secret Number": "292",
+   "link": "/wiki/Euthanasia",
+   "rating": 3
+ },
+ {
+   "Name": "Holy Card",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Delirium as The Lost",
+   "In Game Secret Number": "293",
+   "link": "/wiki/Holy_Card",
+   "rating": null
+ },
+ {
+   "Name": "Crooked Penny",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Delirium as Keeper",
+   "In Game Secret Number": "294",
+   "link": "/wiki/Crooked_Penny",
+   "rating": null
+ },
+ {
+   "Name": "Void",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Delirium as Apollyon",
+   "In Game Secret Number": "295",
+   "link": "/wiki/Void",
+   "rating": null
+ },
+ {
+   "Name": "D1",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greedier as Isaac",
+   "In Game Secret Number": "296",
+   "link": "/wiki/D1",
+   "rating": null
+ },
+ {
+   "Name": "Glyph of Balance",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greedier as Magdalene",
+   "In Game Secret Number": "297",
+   "link": "/wiki/Glyph_of_Balance",
+   "rating": 3
+ },
+ {
+   "Name": "Sack of Sacks",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greedier as Cain",
+   "In Game Secret Number": "298",
+   "link": "/wiki/Sack_of_Sacks",
+   "rating": null
+ },
+ {
+   "Name": "Eye of Belial",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greedier as Judas",
+   "In Game Secret Number": "299",
+   "link": "/wiki/Eye_of_Belial",
+   "rating": 2
+ },
+ {
+   "Name": "Meconium",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greedier as ???",
+   "In Game Secret Number": "300",
+   "link": "/wiki/Meconium",
+   "rating": null
+ },
+ {
+   "Name": "Stem Cell",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greedier as Samson",
+   "In Game Secret Number": "301",
+   "link": "/wiki/Stem_Cell",
+   "rating": null
+ },
+ {
+   "Name": "Crow Heart",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greedier as Eve",
+   "In Game Secret Number": "302",
+   "link": "/wiki/Crow_Heart",
+   "rating": null
+ },
+ {
+   "Name": "Metronome",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greedier as Eden",
+   "In Game Secret Number": "303",
+   "link": "/wiki/Metronome",
+   "rating": null
+ },
+ {
+   "Name": "Bat Wing",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greedier as Azazel",
+   "In Game Secret Number": "304",
+   "link": "/wiki/Bat_Wing",
+   "rating": null
+ },
+ {
+   "Name": "Plan C",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greedier as Lazarus",
+   "In Game Secret Number": "305",
+   "link": "/wiki/Plan_C",
+   "rating": null
+ },
+ {
+   "Name": "Duality",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greedier as Lilith",
+   "In Game Secret Number": "306",
+   "link": "/wiki/Duality",
+   "rating": null
+ },
+ {
+   "Name": "Dad's Lost Coin",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greedier as The Lost",
+   "In Game Secret Number": "307",
+   "link": "/wiki/Dad%27s_Lost_Coin",
+   "rating": null
+ },
+ {
+   "Name": "Eye of Greed",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greedier as Keeper",
+   "In Game Secret Number": "308",
+   "link": "/wiki/Eye_of_Greed",
+   "rating": null
+ },
+ {
+   "Name": "Black Rune",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greedier as Apollyon",
+   "In Game Secret Number": "309",
+   "link": "/wiki/Black_Rune",
+   "rating": null
+ },
+ {
+   "Name": "Locust of Wrath",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Isaac as Apollyon",
+   "In Game Secret Number": "310",
+   "link": "/wiki/Locust_of_War",
+   "rating": null
+ },
+ {
+   "Name": "Locust of Pestilence",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Satan as Apollyon",
+   "In Game Secret Number": "311",
+   "link": "/wiki/Locust_of_Pestilence",
+   "rating": null
+ },
+ {
+   "Name": "Locust of Famine",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat ??? as Apollyon",
+   "In Game Secret Number": "312",
+   "link": "/wiki/Locust_of_Famine",
+   "rating": null
+ },
+ {
+   "Name": "Locust of Death",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat The Lamb as Apollyon",
+   "In Game Secret Number": "313",
+   "link": "/wiki/Locust_of_Death",
+   "rating": null
+ },
+ {
+   "Name": "Locust of Conquest",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete the Boss Rush as Apollyon",
+   "In Game Secret Number": "314",
+   "link": "/wiki/Locust_of_Conquest",
+   "rating": null
+ },
+ {
+   "Name": "Hushy",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Hush as Apollyon",
+   "In Game Secret Number": "315",
+   "link": "/wiki/Hushy",
+   "rating": null
+ },
+ {
+   "Name": "Brown Nugget",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greed as Apollyon",
+   "In Game Secret Number": "316",
+   "link": "/wiki/Brown_Nugget",
+   "rating": null
+ },
+ {
+   "Name": "Mort Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mega Satan as Apollyon",
+   "In Game Secret Number": "317",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Smelter",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Mom's Heart or It Lives! on Hard mode as Apollyon",
+   "In Game Secret Number": "318",
+   "link": "/wiki/Smelter",
+   "rating": null
+ },
+ {
+   "Name": "Apollyon Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Earn all Hard mode Completion Marks as Apollyon",
+   "In Game Secret Number": "319",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "New Area",
+   "Description": "Unlocked a new area.",
+   "Unlock": "Defeat Hush",
+   "In Game Secret Number": "320",
+   "link": "/wiki/The_Void",
+   "rating": null
+ },
+ {
+   "Name": "Once More with Feeling!",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete a Victory Lap, defeating The Lamb",
+   "In Game Secret Number": "321",
+   "link": "/wiki/Gulp!",
+   "rating": null
+ },
+ {
+   "Name": "Hat trick!",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Get a 3-win streak",
+   "In Game Secret Number": "322",
+   "link": "/wiki/Ace_of_Clubs",
+   "rating": null
+ },
+ {
+   "Name": "5 Nights at Mom's",
+   "Description": "Unlocked super special rocks.",
+   "Unlock": "Get a 5-win streak ( 3-win streak), using a different character each time",
+   "In Game Secret Number": "323",
+   "link": "/wiki/Super_special_rock",
+   "rating": null
+ },
+ {
+   "Name": "Sin collector",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Collect every entry in the Bestiary (bugged v190 - Mobs that don't exist in the bestiary are being counted. This allows Sin Collector to be unlocked without a complete bestiary)",
+   "In Game Secret Number": "324",
+   "link": "/wiki/Feels_Like_I%27m_Walking_on_Sunshine!",
+   "rating": null
+ },
+ {
+   "Name": "Dedication",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Participate in 31 Daily Challenges (they don't have to be consecutive; it will still count if Isaac dies in the first room)",
+   "In Game Secret Number": "325",
+   "link": "/wiki/Horf!",
+   "rating": null
+ },
+ {
+   "Name": "ZIP!",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat The Lamb in under 20 minutes",
+   "In Game Secret Number": "326",
+   "link": "/wiki/Ace_of_Diamonds",
+   "rating": null
+ },
+ {
+   "Name": "It's the Key",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat The Lamb without taking Hearts, Coins, or Bombs through the entire run",
+   "In Game Secret Number": "327",
+   "link": "/wiki/Ace_of_Spades_(Card)",
+   "rating": null
+ },
+ {
+   "Name": "Mr. Resetter!",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Reset 7 times in a row\n Switch PS4 Get a minus 10-win streak",
+   "In Game Secret Number": "328",
+   "link": "/wiki/Half_soul_heart",
+   "rating": null
+ },
+ {
+   "Name": "Living on the edge",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete a Chapter (floors I and II) after Basement, start-to-finish, with only half a Heart total (can use The Lost)",
+   "In Game Secret Number": "329",
+   "link": "/wiki/Ace_of_Hearts",
+   "rating": null
+ },
+ {
+   "Name": "U Broke It!",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Obtain 50 items in a run (duplicate passive items/familiars count towards the total, e.g., multiple Breakfast)",
+   "In Game Secret Number": "330",
+   "link": "/wiki/Vurp!",
+   "rating": null
+ },
+ {
+   "Name": "Laz Bleeds More!",
+   "Description": "Unlocked a new starting item.",
+   "Unlock": "Complete Backasswards (challenge #31)",
+   "In Game Secret Number": "331",
+   "link": "/wiki/Lazarus",
+   "rating": null
+ },
+ {
+   "Name": "Maggy Now Holds a Pill!",
+   "Description": "Unlocked a new starting item.",
+   "Unlock": "Complete Aprils Fool (challenge #32)",
+   "In Game Secret Number": "332",
+   "link": "/wiki/Magdalene",
+   "rating": null
+ },
+ {
+   "Name": "Charged Key",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete Pokey Mans (challenge #33)",
+   "In Game Secret Number": "333",
+   "link": "/wiki/Charged_Key",
+   "rating": null
+ },
+ {
+   "Name": "Samson Feels Healthy!",
+   "Description": "Unlocked a new starting item.",
+   "Unlock": "Complete Ultra Hard (challenge #34)",
+   "In Game Secret Number": "334",
+   "link": "/wiki/Samson",
+   "rating": null
+ },
+ {
+   "Name": "Greed's Gullet",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete Pong (challenge #35)",
+   "In Game Secret Number": "335",
+   "link": "/wiki/Greed%27s_Gullet",
+   "rating": null
+ },
+ {
+   "Name": "The Marathon",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Get a 5-win streak in the Daily Challenges ( Isaac must have a score above 0 on the score screen)",
+   "In Game Secret Number": "336",
+   "link": "/wiki/Cracked_Crown",
+   "rating": 3
+ },
+ {
+   "Name": "RERUN",
+   "Description": "Unlocked the power of RERUN.",
+   "Unlock": "Complete 3 Victory Laps and start a 4th",
+   "In Game Secret Number": "337",
+   "link": "/wiki/RERUN",
+   "rating": null
+ },
+ {
+   "Name": "Delirious",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Delirium",
+   "In Game Secret Number": "338",
+   "link": "/wiki/Delirious",
+   "rating": null
+ },
+ {
+   "Name": "1000000%",
+   "Description": "Just Stop!",
+   "Unlock": "Collect every item in the game, unlock all secrets and endings, and complete the Bestiary",
+   "In Game Secret Number": "339",
+   "link": "/wiki/Apollyon",
+   "rating": null
+ },
+ {
+   "Name": "Apollyon",
+   "Description": "Unlocked a new character.",
+   "Unlock": "Defeat Mega Satan",
+   "In Game Secret Number": "340",
+   "link": "",
+   "rating": null
+ },
+ {
+   "Name": "Greedier!",
+   "Description": "New mode unlocked!",
+   "Unlock": "Donate 500 Coins to the Greed Donation Machine",
+   "In Game Secret Number": "341",
+   "link": "/wiki/Greedier_Mode",
+   "rating": null
+ },
+ {
+   "Name": "Burning Basement",
+   "Description": "Alt stage to the basement.",
+   "Unlock": "Defeat Mom's Heart 11 times",
+   "In Game Secret Number": "342",
+   "link": "/wiki/Burning_Basement",
+   "rating": null
+ },
+ {
+   "Name": "Flooded Caves",
+   "Description": "Alt stage to the caves.",
+   "Unlock": "Defeat It Lives! 16 times",
+   "In Game Secret Number": "343",
+   "link": "/wiki/Flooded_Caves",
+   "rating": null
+ },
+ {
+   "Name": "Dank Depths",
+   "Description": "Alt stage to the depths.",
+   "Unlock": "Defeat It Lives! 21 times",
+   "In Game Secret Number": "344",
+   "link": "/wiki/Dank_Depths",
+   "rating": null
+ },
+ {
+   "Name": "Scarred Womb",
+   "Description": "Alt stage to the womb.",
+   "Unlock": "Defeat It Lives! 30 times",
+   "In Game Secret Number": "345",
+   "link": "/wiki/Scarred_Womb",
+   "rating": null
+ },
+ {
+   "Name": "Something wicked this way comes!",
+   "Description": "Unlocked new bosses!",
+   "Unlock": "Defeat ??? as 3 different Characters",
+   "In Game Secret Number": "346",
+   "link": "/wiki/The_Binding_of_Isaac:_Afterbirth#Bosses",
+   "rating": null
+ },
+ {
+   "Name": "Something wicked this way comes+!",
+   "Description": "Unlocked even more bosses!",
+   "Unlock": "Defeat ??? as 6 different Characters",
+   "In Game Secret Number": "347",
+   "link": "/wiki/The_Binding_of_Isaac:_Afterbirth_%E2%80%A0#Bosses",
+   "rating": null
+ },
+ {
+   "Name": "The gate is open!",
+   "Description": "Unlocked new enemies!",
+   "Unlock": "Defeat The Lamb",
+   "In Game Secret Number": "348",
+   "link": "/wiki/Monsters#Afterbirth_�",
+   "rating": null
+ },
+ {
+   "Name": "Black Hole",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat 20 Portals",
+   "In Game Secret Number": "349",
+   "link": "/wiki/Black_Hole",
+   "rating": null
+ },
+ {
+   "Name": "Mystery Gift",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Destroy 500 rocks",
+   "In Game Secret Number": "350",
+   "link": "/wiki/Mystery_Gift",
+   "rating": 3
+ },
+ {
+   "Name": "Sprinkler",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Beat Chapter 1 without taking damage",
+   "In Game Secret Number": "351",
+   "link": "/wiki/Sprinkler",
+   "rating": null
+ },
+ {
+   "Name": "Angry Fly",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Become Beelzebub",
+   "In Game Secret Number": "352",
+   "link": "/wiki/Angry_Fly",
+   "rating": null
+ },
+ {
+   "Name": "Bozo",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Destroy 5 rainbow poops",
+   "In Game Secret Number": "353",
+   "link": "/wiki/Bozo",
+   "rating": null
+ },
+ {
+   "Name": "Broken Modem",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete 7 Daily Challenges (by touching the trophy at the end)",
+   "In Game Secret Number": "354\n PS4 345",
+   "link": "/wiki/Broken_Modem",
+   "rating": null
+ },
+ {
+   "Name": "Buddy in a Box",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Pick up 5 familiars in a single run",
+   "In Game Secret Number": "355",
+   "link": "/wiki/Buddy_in_a_Box",
+   "rating": null
+ },
+ {
+   "Name": "Fast Bombs",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Little Horn 20 times",
+   "In Game Secret Number": "356",
+   "link": "/wiki/Fast_Bombs",
+   "rating": null
+ },
+ {
+   "Name": "Lil Delirium",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Delirium for the 1st time",
+   "In Game Secret Number": "357",
+   "link": "/wiki/Lil_Delirium",
+   "rating": null
+ },
+ {
+   "Name": "Hairpin",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Recharge using Lil' Batteries 20 times",
+   "In Game Secret Number": "358",
+   "link": "/wiki/Hairpin",
+   "rating": null
+ },
+ {
+   "Name": "Wooden Cross",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Sleep in a bed",
+   "In Game Secret Number": "359",
+   "link": "/wiki/Wooden_Cross",
+   "rating": null
+ },
+ {
+   "Name": "Butter!",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete 2 Victory Laps and start a 3rd",
+   "In Game Secret Number": "360",
+   "link": "/wiki/Butter!",
+   "rating": null
+ },
+ {
+   "Name": "Huge Growth",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Increase in size 5 times in a single run via Magic Mushroom, \"One makes you larger\" pills, XI - Strength, etc.",
+   "In Game Secret Number": "361",
+   "link": "/wiki/Huge_Growth",
+   "rating": null
+ },
+ {
+   "Name": "Ancient Recall",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Use Cards and Runes 20 times",
+   "In Game Secret Number": "362",
+   "link": "/wiki/Ancient_Recall",
+   "rating": null
+ },
+ {
+   "Name": "Era Walk",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Add both the Broken Watch and the Stop Watch to your collection",
+   "In Game Secret Number": "363",
+   "link": "/wiki/Era_Walk",
+   "rating": null
+ },
+ {
+   "Name": "Coupon",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Purchase anything from Shops, Devil Rooms, and/or Black Markets 50 times",
+   "In Game Secret Number": "364",
+   "link": "/wiki/Coupon",
+   "rating": null
+ },
+ {
+   "Name": "Telekinesis",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Beat Chapter 2 without taking damage",
+   "In Game Secret Number": "365",
+   "link": "/wiki/Telekinesis",
+   "rating": null
+ },
+ {
+   "Name": "Moving Box",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Use Pandora's Box in Dark Room",
+   "In Game Secret Number": "366",
+   "link": "/wiki/Moving_Box",
+   "rating": null
+ },
+ {
+   "Name": "Jumper Cables",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Pick up any 2 of the following items/trinkets in a single run: 9 Volt, The Battery, Car Battery, AAA Battery, and Watch Battery ( Any 2 items that have the 'battery' item tag)",
+   "In Game Secret Number": "367",
+   "link": "/wiki/Jumper_Cables",
+   "rating": null
+ },
+ {
+   "Name": "Leprosy",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Beat Chapter 3 without taking damage",
+   "In Game Secret Number": "368",
+   "link": "/wiki/Leprosy",
+   "rating": null
+ },
+ {
+   "Name": "Technology Zero",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Pick up any 2 technology items in a single run ( Any 2 items that have the 'tech' item tag)",
+   "In Game Secret Number": "369",
+   "link": "/wiki/Technology_Zero",
+   "rating": 3
+ },
+ {
+   "Name": "Filigree Feather",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Acquire both Key Piece 1 and Key Piece 2",
+   "In Game Secret Number": "370",
+   "link": "/wiki/Filigree_Feather",
+   "rating": 3
+ },
+ {
+   "Name": "Mr. ME!",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Open 20 Locked Chests",
+   "In Game Secret Number": "371",
+   "link": "/wiki/Mr._ME!",
+   "rating": null
+ },
+ {
+   "Name": "7 Seals",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat all 5 Harbingers",
+   "In Game Secret Number": "372",
+   "link": "/wiki/7_Seals",
+   "rating": null
+ },
+ {
+   "Name": "Angelic Prism",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat an Angel 10 times",
+   "In Game Secret Number": "373",
+   "link": "/wiki/Angelic_Prism",
+   "rating": null
+ },
+ {
+   "Name": "Pop!",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Beat Chapter 4 without taking damage",
+   "In Game Secret Number": "374",
+   "link": "/wiki/Pop!",
+   "rating": null
+ },
+ {
+   "Name": "Door Stop",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Blow up doors and Secret Room walls 50 times",
+   "In Game Secret Number": "375",
+   "link": "/wiki/Door_Stop",
+   "rating": null
+ },
+ {
+   "Name": "Death's List",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Take 25 Deals with the Devil",
+   "In Game Secret Number": "376",
+   "link": "/wiki/Death%27s_List",
+   "rating": null
+ },
+ {
+   "Name": "Haemolacria",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Acquire Blood Clot 10 times",
+   "In Game Secret Number": "377",
+   "link": "/wiki/Haemolacria",
+   "rating": 2
+ },
+ {
+   "Name": "Lachryphagy",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Collect 10 \"Tears Up\" items or pills in one run",
+   "In Game Secret Number": "378",
+   "link": "/wiki/Lachryphagy",
+   "rating": 3
+ },
+ {
+   "Name": "Schoolbag",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Enter every Shop from Chapter 1 through Chapter 3 in one run",
+   "In Game Secret Number": "379",
+   "link": "/wiki/Schoolbag",
+   "rating": null
+ },
+ {
+   "Name": "Trisagion",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Take 25 Angel Rooms items",
+   "In Game Secret Number": "380",
+   "link": "/wiki/Trisagion",
+   "rating": null
+ },
+ {
+   "Name": "Extension Cord",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Have The Battery, 9 Volt, and Car Battery in Isaac's collection",
+   "In Game Secret Number": "381",
+   "link": "/wiki/Extension_Cord",
+   "rating": null
+ },
+ {
+   "Name": "Flat Stone",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Acquire Rubber Cement 5 times",
+   "In Game Secret Number": "382",
+   "link": "/wiki/Flat_Stone",
+   "rating": null
+ },
+ {
+   "Name": "Sacrificial Altar",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Take 50 Deals with the Devil",
+   "In Game Secret Number": "383",
+   "link": "/wiki/Sacrificial_Altar",
+   "rating": null
+ },
+ {
+   "Name": "Lil Spewer",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Have Isaac die to his own explosion from Ipecac, Bob's Rotten Head, or a Horf! pill",
+   "In Game Secret Number": "384",
+   "link": "/wiki/Lil_Spewer",
+   "rating": null
+ },
+ {
+   "Name": "Blanket",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Sleep in 10 beds",
+   "In Game Secret Number": "385",
+   "link": "/wiki/Blanket",
+   "rating": null
+ },
+ {
+   "Name": "Marbles",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Use 5 Gulp! pills in one run ( Placebo uses count)",
+   "In Game Secret Number": "386",
+   "link": "/wiki/Marbles",
+   "rating": null
+ },
+ {
+   "Name": "Mystery Egg",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Spawn three charmed enemies in the same room",
+   "In Game Secret Number": "387",
+   "link": "/wiki/Mystery_Egg",
+   "rating": null
+ },
+ {
+   "Name": "Rotten Penny",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Have 20 Blue Flies at the same time",
+   "In Game Secret Number": "388",
+   "link": "/wiki/Rotten_Penny",
+   "rating": null
+ },
+ {
+   "Name": "Baby-Bender",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Use I - The Magician or Telepathy for Dummies while already having homing tears",
+   "In Game Secret Number": "389",
+   "link": "/wiki/Baby-Bender",
+   "rating": null
+ },
+ {
+   "Name": "The Forgotten",
+   "Description": "Unlocked a new character.",
+   "Unlock": "It's complicated",
+   "In Game Secret Number": "390",
+   "link": "/wiki/The_Forgotten",
+   "rating": null
+ },
+ {
+   "Name": "Bone Heart",
+   "Description": "Unlocked a new item.",
+   "Unlock": "It's complicated",
+   "In Game Secret Number": "391",
+   "link": "/wiki/Hearts_(Pickup)",
+   "rating": null
+ },
+ {
+   "Name": "Marrow",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Mom's Heart or It Lives! on Hard mode as The Forgotten",
+   "In Game Secret Number": "392",
+   "link": "/wiki/Marrow",
+   "rating": null
+ },
+ {
+   "Name": "Slipped Rib",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Isaac as The Forgotten",
+   "In Game Secret Number": "393",
+   "link": "/wiki/Slipped_Rib",
+   "rating": null
+ },
+ {
+   "Name": "Pointy Rib",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Satan as The Forgotten",
+   "In Game Secret Number": "394",
+   "link": "/wiki/Pointy_Rib",
+   "rating": null
+ },
+ {
+   "Name": "Jaw Bone",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat ??? as The Forgotten",
+   "In Game Secret Number": "395",
+   "link": "/wiki/Jaw_Bone",
+   "rating": null
+ },
+ {
+   "Name": "Brittle Bones",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat The Lamb as The Forgotten",
+   "In Game Secret Number": "396",
+   "link": "/wiki/Brittle_Bones",
+   "rating": 3
+ },
+ {
+   "Name": "Divorce Papers",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Complete the Boss Rush as The Forgotten",
+   "In Game Secret Number": "397",
+   "link": "/wiki/Divorce_Papers",
+   "rating": 3
+ },
+ {
+   "Name": "Hallowed Ground",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Hush as The Forgotten",
+   "In Game Secret Number": "398",
+   "link": "/wiki/Hallowed_Ground",
+   "rating": null
+ },
+ {
+   "Name": "Finger Bone",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greed as The Forgotten",
+   "In Game Secret Number": "399",
+   "link": "/wiki/Finger_Bone",
+   "rating": null
+ },
+ {
+   "Name": "Dad's Ring",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Ultra Greedier as The Forgotten",
+   "In Game Secret Number": "400",
+   "link": "/wiki/Dad%27s_Ring",
+   "rating": null
+ },
+ {
+   "Name": "Book of the Dead",
+   "Description": "Unlocked a new item.",
+   "Unlock": "Defeat Delirium as The Forgotten",
+   "In Game Secret Number": "401",
+   "link": "/wiki/Book_of_the_Dead",
+   "rating": null
+ },
+ {
+   "Name": "Bone Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Earn all Hard mode Completion Marks as The Forgotten",
+   "In Game Secret Number": "402",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Bound Baby",
+   "Description": "Unlocked a new co-player baby.",
+   "Unlock": "Defeat Mega Satan as The Forgotten",
+   "In Game Secret Number": "403",
+   "link": "/wiki/Babies",
+   "rating": null
+ },
+ {
+   "Name": "Bethany",
+   "Description": "Beat Hard mode as Lazarus without losing a life",
+   "Unlock": "Defeat Mom's Heart/It Lives! on hard mode as Lazarus, without dying at all",
+   "In Game Secret Number": "404",
+   "link": "/wiki/Bethany",
+   "rating": null
+ },
+ {
+   "Name": "Jacob and Esau",
+   "Description": "You are just like your father...",
+   "Unlock": "Defeat Mother",
+   "In Game Secret Number": "405",
+   "link": "/wiki/Jacob_and_Esau",
+   "rating": null
+ },
+ {
+   "Name": "The Planetarium",
+   "Description": "Kids shouldn't believe in fortunes...",
+   "Unlock": "Collect any 3 items with the 'stars' item tag in a single run",
+   "In Game Secret Number": "406",
+   "link": "/wiki/Planetarium",
+   "rating": null
+ },
+ {
+   "Name": "A Secret Exit",
+   "Description": "Complete ??? 3 times.",
+   "Unlock": "Defeat Hush 3 times",
+   "In Game Secret Number": "407",
+   "link": "/wiki/Downpour",
+   "rating": null
+ },
+ {
+   "Name": "Forgotten Lullaby",
+   "Description": "Get that song out of her head.",
+   "Unlock": "Blow up The Siren's skull after defeating her",
+   "In Game Secret Number": "408",
+   "link": "/wiki/Forgotten_Lullaby",
+   "rating": null
+ },
+ {
+   "Name": "Fruity Plum",
+   "Description": "Defeat Baby Plum 10 times.",
+   "Unlock": "Defeat Baby Plum 10 times",
+   "In Game Secret Number": "409",
+   "link": "/wiki/Fruity_Plum",
+   "rating": null
+ },
+ {
+   "Name": "Plum Flute",
+   "Description": "Make a new friend!",
+   "Unlock": "Allow Baby Plum to escape instead of defeating her",
+   "In Game Secret Number": "410",
+   "link": "/wiki/Plum_Flute",
+   "rating": null
+ },
+ {
+   "Name": "Rotten Heart",
+   "Description": "Enter the Corpse...",
+   "Unlock": "Enter Corpse for the first time",
+   "In Game Secret Number": "411",
+   "link": "/wiki/Rotten_Heart",
+   "rating": null
+ },
+ {
+   "Name": "Dross",
+   "Description": "Defeat all bosses in Downpour.",
+   "Unlock": "Defeat all bosses in Downpour",
+   "In Game Secret Number": "412",
+   "link": "/wiki/Dross",
+   "rating": null
+ },
+ {
+   "Name": "Ashpit",
+   "Description": "Defeat all bosses in the Mines.",
+   "Unlock": "Defeat all bosses in Mines",
+   "In Game Secret Number": "413",
+   "link": "/wiki/Ashpit",
+   "rating": null
+ },
+ {
+   "Name": "Gehenna",
+   "Description": "Defeat all bosses in the Mausoleum.",
+   "Unlock": "Defeat all bosses in Mausoleum",
+   "In Game Secret Number": "414",
+   "link": "/wiki/Gehenna",
+   "rating": null
+ },
+ {
+   "Name": "Red Key",
+   "Description": "The other side is calling...",
+   "Unlock": "Open Mom's Chest in Home",
+   "In Game Secret Number": "415",
+   "link": "/wiki/Red_Key",
+   "rating": null
+ },
+ {
+   "Name": "Wisp Baby",
+   "Description": "Beat the game in Hard mode with Bethany.",
+   "Unlock": "Defeat Mom's Heart or It Lives! on Hard mode as Bethany",
+   "In Game Secret Number": "416",
+   "link": "/wiki/Co-op#Repentance_babies",
+   "rating": null
+ },
+ {
+   "Name": "Book of Virtues",
+   "Description": "Complete the Cathedral with Bethany.",
+   "Unlock": "Defeat Isaac as Bethany",
+   "In Game Secret Number": "417",
+   "link": "/wiki/Book_of_Virtues",
+   "rating": 2
+ },
+ {
+   "Name": "Urn of Souls",
+   "Description": "Complete Sheol with Bethany.",
+   "Unlock": "Defeat Satan as Bethany",
+   "In Game Secret Number": "418",
+   "link": "/wiki/Urn_of_Souls",
+   "rating": null
+ },
+ {
+   "Name": "Blessed Penny",
+   "Description": "Complete the Chest with Bethany.",
+   "Unlock": "Defeat ??? as Bethany",
+   "In Game Secret Number": "419",
+   "link": "/wiki/Blessed_Penny",
+   "rating": 3
+ },
+ {
+   "Name": "Alabaster Box",
+   "Description": "Complete the Dark Room with Bethany.",
+   "Unlock": "Defeat The Lamb as Bethany",
+   "In Game Secret Number": "420",
+   "link": "/wiki/Alabaster_Box",
+   "rating": null
+ },
+ {
+   "Name": "Beth's Faith",
+   "Description": "Complete Boss Rush with Bethany.",
+   "Unlock": "Complete the Boss Rush as Bethany",
+   "In Game Secret Number": "421",
+   "link": "/wiki/Beth%27s_Faith",
+   "rating": null
+ },
+ {
+   "Name": "Soul Locket",
+   "Description": "Beat Greed mode with Bethany.",
+   "Unlock": "Defeat Ultra Greed as Bethany",
+   "In Game Secret Number": "422",
+   "link": "/wiki/Soul_Locket",
+   "rating": null
+ },
+ {
+   "Name": "Divine Intervention",
+   "Description": "Complete ??? with Bethany.",
+   "Unlock": "Defeat Hush as Bethany",
+   "In Game Secret Number": "423",
+   "link": "/wiki/Divine_Intervention",
+   "rating": null
+ },
+ {
+   "Name": "Vade Retro",
+   "Description": "Beat Greedier mode with Bethany.",
+   "Unlock": "Defeat Ultra Greedier as Bethany",
+   "In Game Secret Number": "424",
+   "link": "/wiki/Vade_Retro",
+   "rating": null
+ },
+ {
+   "Name": "Star of Bethlehem",
+   "Description": "Beat the Void with Bethany.",
+   "Unlock": "Defeat Delirium as Bethany",
+   "In Game Secret Number": "425",
+   "link": "/wiki/Star_of_Bethlehem",
+   "rating": 2
+ },
+ {
+   "Name": "Hope Baby",
+   "Description": "Beat everything in Hard mode with Bethany.",
+   "Unlock": "Earn all Hard mode Completion Marks as Bethany",
+   "In Game Secret Number": "426",
+   "link": "/wiki/Co-op#Repentance_babies",
+   "rating": null
+ },
+ {
+   "Name": "Glowing Baby",
+   "Description": "Defeat Mega Satan with Bethany.",
+   "Unlock": "Defeat Mega Satan as Bethany",
+   "In Game Secret Number": "427",
+   "link": "/wiki/Co-op#Repentance_babies",
+   "rating": null
+ },
+ {
+   "Name": "Double Baby",
+   "Description": "Beat the game in Hard mode with Jacob and Esau.",
+   "Unlock": "Defeat Mom's Heart or It Lives! on Hard mode as Jacob and Esau",
+   "In Game Secret Number": "428",
+   "link": "/wiki/Co-op#Repentance_babies",
+   "rating": null
+ },
+ {
+   "Name": "The Stairway",
+   "Description": "Complete the Cathedral with Jacob and Esau.",
+   "Unlock": "Defeat Isaac as Jacob and Esau",
+   "In Game Secret Number": "429",
+   "link": "/wiki/The_Stairway",
+   "rating": 1
+ },
+ {
+   "Name": "Red Stew",
+   "Description": "Complete Sheol with Jacob and Esau.",
+   "Unlock": "Defeat Satan as Jacob and Esau",
+   "In Game Secret Number": "430",
+   "link": "/wiki/Red_Stew",
+   "rating": null
+ },
+ {
+   "Name": "Birthright",
+   "Description": "Complete the Chest with Jacob and Esau.",
+   "Unlock": "Defeat ??? as Jacob and Esau",
+   "In Game Secret Number": "431",
+   "link": "/wiki/Birthright",
+   "rating": 3
+ },
+ {
+   "Name": "Damocles",
+   "Description": "Complete the Dark Room with Jacob and Esau.",
+   "Unlock": "Defeat The Lamb as Jacob and Esau",
+   "In Game Secret Number": "432",
+   "link": "/wiki/Damocles",
+   "rating": 2
+ },
+ {
+   "Name": "Rock Bottom",
+   "Description": "Complete Boss Rush with Jacob and Esau.",
+   "Unlock": "Complete Boss Rush as Jacob and Esau",
+   "In Game Secret Number": "433",
+   "link": "/wiki/Rock_Bottom",
+   "rating": 2
+ },
+ {
+   "Name": "Inner Child",
+   "Description": "Beat Greed mode with Jacob and Esau.",
+   "Unlock": "Defeat Ultra Greed as Jacob and Esau",
+   "In Game Secret Number": "434",
+   "link": "/wiki/Inner_Child",
+   "rating": 3
+ },
+ {
+   "Name": "Vanishing Twin",
+   "Description": "Complete ??? with Jacob and Esau.",
+   "Unlock": "Defeat Hush as Jacob and Esau",
+   "In Game Secret Number": "435",
+   "link": "/wiki/Vanishing_Twin",
+   "rating": null
+ },
+ {
+   "Name": "Genesis",
+   "Description": "Beat Greedier mode with Jacob and Esau.",
+   "Unlock": "Defeat Ultra Greedier as Jacob and Esau",
+   "In Game Secret Number": "436",
+   "link": "/wiki/Genesis",
+   "rating": 3
+ },
+ {
+   "Name": "Suplex!",
+   "Description": "Complete the Void with Jacob and Esau.",
+   "Unlock": "Defeat Delirium as Jacob and Esau",
+   "In Game Secret Number": "437",
+   "link": "/wiki/Suplex!",
+   "rating": null
+ },
+ {
+   "Name": "Solomon's Baby",
+   "Description": "Beat everything in Hard mode with Jacob and Esau.",
+   "Unlock": "Earn all Hard mode Completion Marks as Jacob and Esau",
+   "In Game Secret Number": "438",
+   "link": "/wiki/Co-op#Repentance_babies",
+   "rating": null
+ },
+ {
+   "Name": "Illusion Baby",
+   "Description": "Defeat Mega Satan with Jacob and Esau.",
+   "Unlock": "Defeat Mega Satan as Jacob and Esau",
+   "In Game Secret Number": "439",
+   "link": "/wiki/Co-op#Repentance_babies",
+   "rating": null
+ },
+ {
+   "Name": "Meat Cleaver",
+   "Description": "Complete the Corpse with Isaac.",
+   "Unlock": "Defeat Mother as Isaac",
+   "In Game Secret Number": "440",
+   "link": "/wiki/Meat_Cleaver",
+   "rating": null
+ },
+ {
+   "Name": "Options?",
+   "Description": "Complete the final chapter with Isaac.",
+   "Unlock": "Defeat The Beast as Isaac",
+   "In Game Secret Number": "441",
+   "link": "/wiki/Options%3F",
+   "rating": null
+ },
+ {
+   "Name": "Yuck Heart",
+   "Description": "Complete the Corpse with Magdalene.",
+   "Unlock": "Defeat Mother as Magdalene",
+   "In Game Secret Number": "442",
+   "link": "/wiki/Yuck_Heart",
+   "rating": null
+ },
+ {
+   "Name": "Candy Heart",
+   "Description": "Complete the final chapter with Magdalene.",
+   "Unlock": "Defeat The Beast as Magdalene",
+   "In Game Secret Number": "443",
+   "link": "/wiki/Candy_Heart",
+   "rating": null
+ },
+ {
+   "Name": "Guppy's Eye",
+   "Description": "Complete the Corpse with Cain.",
+   "Unlock": "Defeat Mother as Cain",
+   "In Game Secret Number": "444",
+   "link": "/wiki/Guppy%27s_Eye",
+   "rating": 3
+ },
+ {
+   "Name": "A Pound of Flesh",
+   "Description": "Complete the final chapter with Cain.",
+   "Unlock": "Defeat The Beast as Cain",
+   "In Game Secret Number": "445",
+   "link": "/wiki/A_Pound_of_Flesh",
+   "rating": null
+ },
+ {
+   "Name": "Akeldama",
+   "Description": "Complete the Corpse with Judas.",
+   "Unlock": "Defeat Mother as Judas",
+   "In Game Secret Number": "446",
+   "link": "/wiki/Akeldama",
+   "rating": null
+ },
+ {
+   "Name": "Redemption",
+   "Description": "Complete the final chapter with Judas.",
+   "Unlock": "Defeat The Beast as Judas",
+   "In Game Secret Number": "447",
+   "link": "/wiki/Redemption",
+   "rating": null
+ },
+ {
+   "Name": "Eternal D6",
+   "Description": "Complete the Corpse with ???.",
+   "Unlock": "Defeat Mother as ???",
+   "In Game Secret Number": "448",
+   "link": "/wiki/Eternal_D6",
+   "rating": 3
+ },
+ {
+   "Name": "Montezuma's Revenge",
+   "Description": "Complete the final chapter with ???.",
+   "Unlock": "Defeat The Beast as ???",
+   "In Game Secret Number": "449",
+   "link": "/wiki/Montezuma%27s_Revenge",
+   "rating": 3
+ },
+ {
+   "Name": "Bird Cage",
+   "Description": "Complete the Corpse with Eve.",
+   "Unlock": "Defeat Mother as Eve",
+   "In Game Secret Number": "450",
+   "link": "/wiki/Bird_Cage",
+   "rating": null
+ },
+ {
+   "Name": "Cracked Orb",
+   "Description": "Complete the final chapter with Eve.",
+   "Unlock": "Defeat The Beast as Eve",
+   "In Game Secret Number": "451",
+   "link": "/wiki/Cracked_Orb",
+   "rating": null
+ },
+ {
+   "Name": "Bloody Gust",
+   "Description": "Complete the Corpse with Samson.",
+   "Unlock": "Defeat Mother as Samson",
+   "In Game Secret Number": "452",
+   "link": "/wiki/Bloody_Gust",
+   "rating": null
+ },
+ {
+   "Name": "Empty Heart",
+   "Description": "Complete the final chapter with Samson.",
+   "Unlock": "Defeat The Beast as Samson",
+   "In Game Secret Number": "453",
+   "link": "/wiki/Empty_Heart",
+   "rating": null
+ },
+ {
+   "Name": "Devil's Crown",
+   "Description": "Complete the Corpse with Azazel.",
+   "Unlock": "Defeat Mother as Azazel",
+   "In Game Secret Number": "454",
+   "link": "/wiki/Devil%27s_Crown",
+   "rating": null
+ },
+ {
+   "Name": "Lil Abaddon",
+   "Description": "Complete the final chapter with Azazel.",
+   "Unlock": "Defeat The Beast as Azazel",
+   "In Game Secret Number": "455",
+   "link": "/wiki/Lil_Abaddon",
+   "rating": null
+ },
+ {
+   "Name": "Tinytoma",
+   "Description": "Complete the Corpse with Lazarus.",
+   "Unlock": "Defeat Mother as Lazarus",
+   "In Game Secret Number": "456",
+   "link": "/wiki/Tinytoma",
+   "rating": null
+ },
+ {
+   "Name": "Astral Projection",
+   "Description": "Complete the final chapter with Lazarus.",
+   "Unlock": "Defeat The Beast as Lazarus",
+   "In Game Secret Number": "457",
+   "link": "/wiki/Astral_Projection",
+   "rating": null
+ },
+ {
+   "Name": "'M",
+   "Description": "Complete the Corpse with Eden.",
+   "Unlock": "Defeat Mother as Eden",
+   "In Game Secret Number": "458",
+   "link": "/wiki/%27M",
+   "rating": 3
+ },
+ {
+   "Name": "Everything Jar",
+   "Description": "Complete the final chapter with Eden.",
+   "Unlock": "Defeat The Beast as Eden",
+   "In Game Secret Number": "459",
+   "link": "/wiki/Everything_Jar",
+   "rating": null
+ },
+ {
+   "Name": "Lost Soul",
+   "Description": "Complete the Corpse with the Lost.",
+   "Unlock": "Defeat Mother as The Lost",
+   "In Game Secret Number": "460",
+   "link": "/wiki/Lost_Soul",
+   "rating": null
+ },
+ {
+   "Name": "Hungry Soul",
+   "Description": "Complete the final chapter with the Lost.",
+   "Unlock": "Defeat The Beast as The Lost",
+   "In Game Secret Number": "461",
+   "link": "/wiki/Hungry_Soul",
+   "rating": null
+ },
+ {
+   "Name": "Blood Puppy",
+   "Description": "Complete the Corpse with Lilith.",
+   "Unlock": "Defeat Mother as Lilith",
+   "In Game Secret Number": "462",
+   "link": "/wiki/Blood_Puppy",
+   "rating": null
+ },
+ {
+   "Name": "C Section",
+   "Description": "Complete the final chapter with Lilith.",
+   "Unlock": "Defeat The Beast as Lilith",
+   "In Game Secret Number": "463",
+   "link": "/wiki/C_Section",
+   "rating": 1
+ },
+ {
+   "Name": "Keeper's Sack",
+   "Description": "Complete the Corpse with Keeper.",
+   "Unlock": "Defeat Mother as Keeper",
+   "In Game Secret Number": "464",
+   "link": "/wiki/Keeper%27s_Sack",
+   "rating": 2
+ },
+ {
+   "Name": "Keeper's Box",
+   "Description": "Complete the final chapter with Keeper.",
+   "Unlock": "Defeat The Beast as Keeper",
+   "In Game Secret Number": "465",
+   "link": "/wiki/Keeper%27s_Box",
+   "rating": null
+ },
+ {
+   "Name": "Lil Portal",
+   "Description": "Complete the Corpse with Apollyon.",
+   "Unlock": "Defeat Mother as Apollyon",
+   "In Game Secret Number": "466",
+   "link": "/wiki/Lil_Portal",
+   "rating": null
+ },
+ {
+   "Name": "Worm Friend",
+   "Description": "Complete the final chapter with Apollyon.",
+   "Unlock": "Defeat The Beast as Apollyon",
+   "In Game Secret Number": "467",
+   "link": "/wiki/Worm_Friend",
+   "rating": 3
+ },
+ {
+   "Name": "Bone Spurs",
+   "Description": "Complete the Corpse with the Forgotten.",
+   "Unlock": "Defeat Mother as The Forgotten",
+   "In Game Secret Number": "468",
+   "link": "/wiki/Bone_Spurs",
+   "rating": null
+ },
+ {
+   "Name": "Spirit Shackles",
+   "Description": "Complete the final chapter with the Forgotten.",
+   "Unlock": "Defeat The Beast as The Forgotten",
+   "In Game Secret Number": "469",
+   "link": "/wiki/Spirit_Shackles",
+   "rating": null
+ },
+ {
+   "Name": "Revelation",
+   "Description": "Complete the Corpse with Bethany.",
+   "Unlock": "Defeat Mother as Bethany",
+   "In Game Secret Number": "470",
+   "link": "/wiki/Revelation",
+   "rating": 1
+ },
+ {
+   "Name": "Jar of Wisps",
+   "Description": "Complete the final chapter with Bethany.",
+   "Unlock": "Defeat The Beast as Bethany",
+   "In Game Secret Number": "471",
+   "link": "/wiki/Jar_of_Wisps",
+   "rating": null
+ },
+ {
+   "Name": "Magic Skin",
+   "Description": "Complete the Corpse with Jacob and Esau.",
+   "Unlock": "Defeat Mother as Jacob and Esau",
+   "In Game Secret Number": "472",
+   "link": "/wiki/Magic_Skin",
+   "rating": null
+ },
+ {
+   "Name": "Friend Finder",
+   "Description": "Complete the final chapter with Jacob and Esau.",
+   "Unlock": "Defeat The Beast as Jacob and Esau",
+   "In Game Secret Number": "473",
+   "link": "/wiki/Friend_Finder",
+   "rating": null
+ },
+ {
+   "Name": "The Broken",
+   "Description": "???",
+   "Unlock": "Use Red Key (etc.) to open the hidden closet in Home as Isaac",
+   "In Game Secret Number": "474",
+   "link": "/wiki/Tainted_Isaac",
+   "rating": null
+ },
+ {
+   "Name": "The Dauntless",
+   "Description": "???",
+   "Unlock": "Use Red Key (etc.) to open the hidden closet in Home as Magdalene",
+   "In Game Secret Number": "475",
+   "link": "/wiki/Tainted_Magdalene",
+   "rating": null
+ },
+ {
+   "Name": "The Hoarder",
+   "Description": "???",
+   "Unlock": "Use Red Key (etc.) to open the hidden closet in Home as Cain",
+   "In Game Secret Number": "476",
+   "link": "/wiki/Tainted_Cain",
+   "rating": null
+ },
+ {
+   "Name": "The Deceiver",
+   "Description": "???",
+   "Unlock": "Use Red Key (etc.) to open the hidden closet in Home as Judas",
+   "In Game Secret Number": "477",
+   "link": "/wiki/Tainted_Judas",
+   "rating": null
+ },
+ {
+   "Name": "The Soiled",
+   "Description": "???",
+   "Unlock": "Use Red Key (etc.) to open the hidden closet in Home as ???",
+   "In Game Secret Number": "478",
+   "link": "/wiki/Tainted_%3F%3F%3F",
+   "rating": null
+ },
+ {
+   "Name": "The Curdled",
+   "Description": "???",
+   "Unlock": "Use Red Key (etc.) to open the hidden closet in Home as Eve",
+   "In Game Secret Number": "479",
+   "link": "/wiki/Tainted_Eve",
+   "rating": null
+ },
+ {
+   "Name": "The Savage",
+   "Description": "???",
+   "Unlock": "Use Red Key (etc.) to open the hidden closet in Home as Samson",
+   "In Game Secret Number": "480",
+   "link": "/wiki/Tainted_Samson",
+   "rating": null
+ },
+ {
+   "Name": "The Benighted",
+   "Description": "???",
+   "Unlock": "Use Red Key (etc.) to open the hidden closet in Home as Azazel",
+   "In Game Secret Number": "481",
+   "link": "/wiki/Tainted_Azazel",
+   "rating": null
+ },
+ {
+   "Name": "The Enigma",
+   "Description": "???",
+   "Unlock": "Use Red Key (etc.) to open the hidden closet in Home as Lazarus",
+   "In Game Secret Number": "482",
+   "link": "/wiki/Tainted_Lazarus",
+   "rating": null
+ },
+ {
+   "Name": "The Capricious",
+   "Description": "???",
+   "Unlock": "Use Red Key (etc.) to open the hidden closet in Home as Eden",
+   "In Game Secret Number": "483",
+   "link": "/wiki/Tainted_Eden",
+   "rating": null
+ },
+ {
+   "Name": "The Baleful",
+   "Description": "???",
+   "Unlock": "Use Red Key (etc.) to open the hidden closet in Home as The Lost",
+   "In Game Secret Number": "484",
+   "link": "/wiki/Tainted_Lost",
+   "rating": null
+ },
+ {
+   "Name": "The Harlot",
+   "Description": "???",
+   "Unlock": "Use Red Key (etc.) to open the hidden closet in Home as Lilith",
+   "In Game Secret Number": "485",
+   "link": "/wiki/Tainted_Lilith",
+   "rating": null
+ },
+ {
+   "Name": "The Miser",
+   "Description": "???",
+   "Unlock": "Use Red Key (etc.) to open the hidden closet in Home as Keeper",
+   "In Game Secret Number": "486",
+   "link": "/wiki/Tainted_Keeper",
+   "rating": null
+ },
+ {
+   "Name": "The Empty",
+   "Description": "???",
+   "Unlock": "Use Red Key (etc.) to open the hidden closet in Home as Apollyon",
+   "In Game Secret Number": "487",
+   "link": "/wiki/Tainted_Apollyon",
+   "rating": null
+ },
+ {
+   "Name": "The Fettered",
+   "Description": "???",
+   "Unlock": "Use Red Key (etc.) to open the hidden closet in Home as The Forgotten",
+   "In Game Secret Number": "488",
+   "link": "/wiki/Tainted_Forgotten",
+   "rating": null
+ },
+ {
+   "Name": "The Zealot",
+   "Description": "???",
+   "Unlock": "Use Red Key (etc.) to open the hidden closet in Home as Bethany",
+   "In Game Secret Number": "489",
+   "link": "/wiki/Tainted_Bethany",
+   "rating": null
+ },
+ {
+   "Name": "The Deserter",
+   "Description": "???",
+   "Unlock": "Use Red Key (etc.) to open the hidden closet in Home as Jacob and Esau",
+   "In Game Secret Number": "490",
+   "link": "/wiki/Tainted_Jacob",
+   "rating": null
+ },
+ {
+   "Name": "Glitched Crown",
+   "Description": "???",
+   "Unlock": "Defeat The Beast as Tainted Isaac",
+   "In Game Secret Number": "491",
+   "link": "/wiki/Glitched_Crown",
+   "rating": 1
+ },
+ {
+   "Name": "Belly Jelly",
+   "Description": "???",
+   "Unlock": "Defeat The Beast as Tainted Magdalene",
+   "In Game Secret Number": "492",
+   "link": "/wiki/Belly_Jelly",
+   "rating": 3
+ },
+ {
+   "Name": "Blue Key",
+   "Description": "???",
+   "Unlock": "Defeat The Beast as Tainted Cain",
+   "In Game Secret Number": "493",
+   "link": "/wiki/Blue_Key",
+   "rating": null
+ },
+ {
+   "Name": "Sanguine Bond",
+   "Description": "???",
+   "Unlock": "Defeat The Beast as Tainted Judas",
+   "In Game Secret Number": "494",
+   "link": "/wiki/Sanguine_Bond",
+   "rating": null
+ },
+ {
+   "Name": "The Swarm",
+   "Description": "???",
+   "Unlock": "Defeat The Beast as Tainted ???",
+   "In Game Secret Number": "495",
+   "link": "/wiki/The_Swarm",
+   "rating": null
+ },
+ {
+   "Name": "Heartbreak",
+   "Description": "???",
+   "Unlock": "Defeat The Beast as Tainted Eve",
+   "In Game Secret Number": "496",
+   "link": "/wiki/Heartbreak",
+   "rating": null
+ },
+ {
+   "Name": "Larynx",
+   "Description": "???",
+   "Unlock": "Defeat The Beast as Tainted Samson",
+   "In Game Secret Number": "497",
+   "link": "/wiki/Larynx",
+   "rating": null
+ },
+ {
+   "Name": "Azazel's Rage",
+   "Description": "???",
+   "Unlock": "Defeat The Beast as Tainted Azazel",
+   "In Game Secret Number": "498",
+   "link": "/wiki/Azazel%27s_Rage",
+   "rating": null
+ },
+ {
+   "Name": "Salvation",
+   "Description": "???",
+   "Unlock": "Defeat The Beast as Tainted Lazarus",
+   "In Game Secret Number": "499",
+   "link": "/wiki/Salvation",
+   "rating": 3
+ },
+ {
+   "Name": "TMTRAINER",
+   "Description": "???",
+   "Unlock": "Defeat The Beast as Tainted Eden",
+   "In Game Secret Number": "500",
+   "link": "/wiki/TMTRAINER",
+   "rating": null
+ },
+ {
+   "Name": "Sacred Orb",
+   "Description": "???",
+   "Unlock": "Defeat The Beast as Tainted Lost",
+   "In Game Secret Number": "501",
+   "link": "/wiki/Sacred_Orb",
+   "rating": 1
+ },
+ {
+   "Name": "Twisted Pair",
+   "Description": "???",
+   "Unlock": "Defeat The Beast as Tainted Lilith",
+   "In Game Secret Number": "502",
+   "link": "/wiki/Twisted_Pair",
+   "rating": 2
+ },
+ {
+   "Name": "Strawman",
+   "Description": "???",
+   "Unlock": "Defeat The Beast as Tainted Keeper",
+   "In Game Secret Number": "503",
+   "link": "/wiki/Strawman",
+   "rating": null
+ },
+ {
+   "Name": "Echo Chamber",
+   "Description": "???",
+   "Unlock": "Defeat The Beast as Tainted Apollyon",
+   "In Game Secret Number": "504",
+   "link": "/wiki/Echo_Chamber",
+   "rating": 3
+ },
+ {
+   "Name": "Isaac's Tomb",
+   "Description": "???",
+   "Unlock": "Defeat The Beast as Tainted Forgotten",
+   "In Game Secret Number": "505",
+   "link": "/wiki/Isaac%27s_Tomb",
+   "rating": 3
+ },
+ {
+   "Name": "Vengeful Spirit",
+   "Description": "???",
+   "Unlock": "Defeat The Beast as Tainted Bethany",
+   "In Game Secret Number": "506",
+   "link": "/wiki/Vengeful_Spirit",
+   "rating": null
+ },
+ {
+   "Name": "Esau Jr.",
+   "Description": "???",
+   "Unlock": "Defeat The Beast as Tainted Jacob",
+   "In Game Secret Number": "507",
+   "link": "/wiki/Esau_Jr.",
+   "rating": null
+ },
+ {
+   "Name": "Bloody Mary",
+   "Description": "Unlocked a new challenge.",
+   "Unlock": "Unlock Bethany, Blood Bag, and It Lives!",
+   "In Game Secret Number": "508",
+   "link": "/wiki/Bloody_Mary",
+   "rating": null
+ },
+ {
+   "Name": "Baptism by Fire",
+   "Description": "Unlocked a new challenge.",
+   "Unlock": "Defeat Satan as Bethany, defeat Mom's Heart 11 times, and unlock Maggy's Faith",
+   "In Game Secret Number": "509",
+   "link": "/wiki/Baptism_by_Fire",
+   "rating": null
+ },
+ {
+   "Name": "Isaac's Awakening",
+   "Description": "Unlocked a new challenge.",
+   "Unlock": "Defeat Mother",
+   "In Game Secret Number": "510",
+   "link": "/wiki/Isaac%27s_Awakening",
+   "rating": null
+ },
+ {
+   "Name": "Seeing Double",
+   "Description": "Unlocked a new challenge.",
+   "Unlock": "Defeat Mother",
+   "In Game Secret Number": "511",
+   "link": "/wiki/Seeing_Double",
+   "rating": null
+ },
+ {
+   "Name": "Pica Run",
+   "Description": "Unlocked a new challenge.",
+   "Unlock": "Defeat Mom's Heart 11 times and unlock Marbles",
+   "In Game Secret Number": "512",
+   "link": "/wiki/Pica_Run",
+   "rating": null
+ },
+ {
+   "Name": "Hot Potato",
+   "Description": "Unlocked a new challenge.",
+   "Unlock": "Unlock Tainted Forgotten",
+   "In Game Secret Number": "513",
+   "link": "/wiki/Hot_Potato",
+   "rating": null
+ },
+ {
+   "Name": "Cantripped!",
+   "Description": "Unlocked a new challenge.",
+   "Unlock": "Unlock Tainted Cain",
+   "In Game Secret Number": "514",
+   "link": "/wiki/Cantripped!",
+   "rating": null
+ },
+ {
+   "Name": "Red Redemption",
+   "Description": "Unlocked a new challenge.",
+   "Unlock": "Unlock Tainted Jacob",
+   "In Game Secret Number": "515",
+   "link": "/wiki/Red_Redemption",
+   "rating": null
+ },
+ {
+   "Name": "DELETE THIS",
+   "Description": "TODO: remove this achievement",
+   "Unlock": "Unlock Tainted Eden",
+   "In Game Secret Number": "516",
+   "link": "/wiki/DELETE_THIS",
+   "rating": null
+ },
+ {
+   "Name": "Dirty Mind",
+   "Description": "Complete Challenge 36.",
+   "Unlock": "Complete Scat Man (challenge #36)",
+   "In Game Secret Number": "517",
+   "link": "/wiki/Dirty_Mind",
+   "rating": null
+ },
+ {
+   "Name": "Sigil of Baphomet",
+   "Description": "Complete Challenge 37.",
+   "Unlock": "Complete Bloody Mary (challenge #37)",
+   "In Game Secret Number": "518",
+   "link": "/wiki/Sigil_of_Baphomet",
+   "rating": 3
+ },
+ {
+   "Name": "Purgatory",
+   "Description": "Complete Challenge 38.",
+   "Unlock": "Complete Baptism by Fire (challenge #38)",
+   "In Game Secret Number": "519",
+   "link": "/wiki/Purgatory",
+   "rating": null
+ },
+ {
+   "Name": "Spirit Sword",
+   "Description": "Complete Challenge 39.",
+   "Unlock": "Complete Isaac's Awakening (challenge #39)",
+   "In Game Secret Number": "520",
+   "link": "/wiki/Spirit_Sword",
+   "rating": 3
+ },
+ {
+   "Name": "Broken Glasses",
+   "Description": "Complete Challenge 40.",
+   "Unlock": "Complete Seeing Double (challenge #40)",
+   "In Game Secret Number": "521",
+   "link": "/wiki/Broken_Glasses",
+   "rating": null
+ },
+ {
+   "Name": "Ice Cube",
+   "Description": "Complete Challenge 41.",
+   "Unlock": "Complete Pica Run (challenge #41)",
+   "In Game Secret Number": "522",
+   "link": "/wiki/Ice_Cube",
+   "rating": null
+ },
+ {
+   "Name": "Charged Penny",
+   "Description": "They will charge you up... for a small fee.",
+   "Unlock": "Donate to Battery Bums until they pay out with an item 5 times",
+   "In Game Secret Number": "523",
+   "link": "/wiki/Charged_Penny",
+   "rating": null
+ },
+ {
+   "Name": "The Fool",
+   "Description": "???",
+   "Unlock": "Defeat Ultra Greedier as Tainted Lost",
+   "In Game Secret Number": "524",
+   "link": "/wiki/Reverse_tarot_cards",
+   "rating": null
+ },
+ {
+   "Name": "The Magician",
+   "Description": "???",
+   "Unlock": "Defeat Ultra Greedier as Tainted Judas",
+   "In Game Secret Number": "525",
+   "link": "/wiki/Reverse_tarot_cards",
+   "rating": null
+ },
+ {
+   "Name": "The High Priestess",
+   "Description": "???",
+   "Unlock": "Defeat Ultra Greedier as Tainted Lilith",
+   "In Game Secret Number": "526",
+   "link": "/wiki/Reverse_tarot_cards",
+   "rating": null
+ },
+ {
+   "Name": "The Empress",
+   "Description": "???",
+   "Unlock": "Defeat Ultra Greedier as Tainted Eve",
+   "In Game Secret Number": "527",
+   "link": "/wiki/Reverse_tarot_cards",
+   "rating": null
+ },
+ {
+   "Name": "The Emperor",
+   "Description": "???",
+   "Unlock": "Defeat Ultra Greedier as Tainted ???",
+   "In Game Secret Number": "528",
+   "link": "/wiki/Reverse_tarot_cards",
+   "rating": 3
+ },
+ {
+   "Name": "The Hierophant",
+   "Description": "???",
+   "Unlock": "Defeat Ultra Greedier as Tainted Bethany",
+   "In Game Secret Number": "529",
+   "link": "/wiki/Reverse_tarot_cards",
+   "rating": null
+ },
+ {
+   "Name": "The Lovers",
+   "Description": "???",
+   "Unlock": "Defeat Ultra Greedier as Tainted Magdalene",
+   "In Game Secret Number": "530",
+   "link": "/wiki/Reverse_tarot_cards",
+   "rating": 3
+ },
+ {
+   "Name": "The Chariot",
+   "Description": "Complete Challenge 42.",
+   "Unlock": "Complete Hot Potato (challenge #42)",
+   "In Game Secret Number": "531",
+   "link": "/wiki/Reverse_tarot_cards",
+   "rating": null
+ },
+ {
+   "Name": "Justice",
+   "Description": "Complete Challenge 43.",
+   "Unlock": "Complete Cantripped (challenge #43)",
+   "In Game Secret Number": "532",
+   "link": "/wiki/Reverse_tarot_cards",
+   "rating": null
+ },
+ {
+   "Name": "The Hermit",
+   "Description": "Complete Challenge 44.",
+   "Unlock": "Complete Red Redemption (challenge #44)",
+   "In Game Secret Number": "533",
+   "link": "/wiki/Reverse_tarot_cards",
+   "rating": null
+ },
+ {
+   "Name": "Wheel of Fortune",
+   "Description": "???",
+   "Unlock": "Defeat Ultra Greedier as Tainted Cain",
+   "In Game Secret Number": "534",
+   "link": "/wiki/Reverse_tarot_cards",
+   "rating": null
+ },
+ {
+   "Name": "Strength",
+   "Description": "???",
+   "Unlock": "Defeat Ultra Greedier as Tainted Samson",
+   "In Game Secret Number": "535",
+   "link": "/wiki/Reverse_tarot_cards",
+   "rating": null
+ },
+ {
+   "Name": "The Hanged Man",
+   "Description": "???",
+   "Unlock": "Defeat Ultra Greedier as Tainted Keeper",
+   "In Game Secret Number": "536",
+   "link": "/wiki/Reverse_tarot_cards",
+   "rating": null
+ },
+ {
+   "Name": "Death",
+   "Description": "???",
+   "Unlock": "Defeat Ultra Greedier as Tainted Forgotten",
+   "In Game Secret Number": "537",
+   "link": "/wiki/Reverse_tarot_cards",
+   "rating": null
+ },
+ {
+   "Name": "Temperance",
+   "Description": "INVALID_DESCRIPTION",
+   "Unlock": "Complete DELETE THIS (challenge #45)",
+   "In Game Secret Number": "538",
+   "link": "/wiki/Reverse_tarot_cards",
+   "rating": null
+ },
+ {
+   "Name": "The Devil",
+   "Description": "???",
+   "Unlock": "Defeat Ultra Greedier as Tainted Azazel",
+   "In Game Secret Number": "539",
+   "link": "/wiki/Reverse_tarot_cards",
+   "rating": null
+ },
+ {
+   "Name": "The Tower",
+   "Description": "???",
+   "Unlock": "Defeat Ultra Greedier as Tainted Apollyon",
+   "In Game Secret Number": "540",
+   "link": "/wiki/Reverse_tarot_cards",
+   "rating": null
+ },
+ {
+   "Name": "The Stars",
+   "Description": "???",
+   "Unlock": "Defeat Ultra Greedier as Tainted Isaac",
+   "In Game Secret Number": "541",
+   "link": "/wiki/Reverse_tarot_cards",
+   "rating": 2
+ },
+ {
+   "Name": "The Sun and the Moon",
+   "Description": "???",
+   "Unlock": "Defeat Ultra Greedier as Tainted Jacob",
+   "In Game Secret Number": "542",
+   "link": "/wiki/Reverse_tarot_cards",
+   "rating": 3
+ },
+ {
+   "Name": "Judgement",
+   "Description": "???",
+   "Unlock": "Defeat Ultra Greedier as Tainted Lazarus",
+   "In Game Secret Number": "543",
+   "link": "/wiki/Reverse_tarot_cards",
+   "rating": 2
+ },
+ {
+   "Name": "The World",
+   "Description": "???",
+   "Unlock": "Defeat Ultra Greedier as Tainted Eden",
+   "In Game Secret Number": "544",
+   "link": "/wiki/Reverse_tarot_cards",
+   "rating": 3
+ },
+ {
+   "Name": "Old Capacitor",
+   "Description": "Kill 10 Battery Bums.",
+   "Unlock": "Kill 10 Battery Bums",
+   "In Game Secret Number": "545",
+   "link": "/wiki/Old_Capacitor",
+   "rating": null
+ },
+ {
+   "Name": "Brimstone Bombs",
+   "Description": "Kill Hornfel before he escapes!",
+   "Unlock": "After breaking Hornfel's minecart, kill him before he can escape",
+   "In Game Secret Number": "546",
+   "link": "/wiki/Brimstone_Bombs",
+   "rating": null
+ },
+ {
+   "Name": "Mega Mush",
+   "Description": "Beat everything in Hard Mode as every character.",
+   "Unlock": "Earn all Hard mode Completion Marks for all non-Tainted characters",
+   "In Game Secret Number": "547",
+   "link": "/wiki/Mega_Mush",
+   "rating": 1
+ },
+ {
+   "Name": "Mom's Lock",
+   "Description": "???",
+   "Unlock": "Defeat Isaac, ???, Satan, and The Lamb as Tainted Isaac",
+   "In Game Secret Number": "548",
+   "link": "/wiki/Mom%27s_Lock",
+   "rating": null
+ },
+ {
+   "Name": "Dice Bag",
+   "Description": "???",
+   "Unlock": "Defeat Mother as Tainted Isaac",
+   "In Game Secret Number": "549",
+   "link": "/wiki/Dice_Bag",
+   "rating": null
+ },
+ {
+   "Name": "Holy Crown",
+   "Description": "???",
+   "Unlock": "Defeat Isaac, ???, Satan, and The Lamb as Tainted Magdalene",
+   "In Game Secret Number": "550",
+   "link": "/wiki/Holy_Crown",
+   "rating": null
+ },
+ {
+   "Name": "Mother's Kiss",
+   "Description": "???",
+   "Unlock": "Defeat Mother as Tainted Magdalene",
+   "In Game Secret Number": "551",
+   "link": "/wiki/Mother%27s_Kiss",
+   "rating": null
+ },
+ {
+   "Name": "Gilded Key",
+   "Description": "???",
+   "Unlock": "Defeat Isaac, ???, Satan, and The Lamb as Tainted Cain",
+   "In Game Secret Number": "552",
+   "link": "/wiki/Gilded_Key",
+   "rating": null
+ },
+ {
+   "Name": "Lucky Sack",
+   "Description": "???",
+   "Unlock": "Defeat Mother as Tainted Cain",
+   "In Game Secret Number": "553",
+   "link": "/wiki/Lucky_Sack",
+   "rating": null
+ },
+ {
+   "Name": "Your Soul",
+   "Description": "???",
+   "Unlock": "Defeat Isaac, ???, Satan, and The Lamb as Tainted Judas",
+   "In Game Secret Number": "554",
+   "link": "/wiki/Your_Soul",
+   "rating": null
+ },
+ {
+   "Name": "Number Magnet",
+   "Description": "???",
+   "Unlock": "Defeat Mother as Tainted Judas",
+   "In Game Secret Number": "555",
+   "link": "/wiki/Number_Magnet",
+   "rating": null
+ },
+ {
+   "Name": "Dingle Berry",
+   "Description": "???",
+   "Unlock": "Defeat Isaac, ???, Satan, and The Lamb as Tainted ???",
+   "In Game Secret Number": "556",
+   "link": "/wiki/Dingle_Berry",
+   "rating": null
+ },
+ {
+   "Name": "Ring Cap",
+   "Description": "???",
+   "Unlock": "Defeat Mother as Tainted ???",
+   "In Game Secret Number": "557",
+   "link": "/wiki/Ring_Cap",
+   "rating": null
+ },
+ {
+   "Name": "Strange Key",
+   "Description": "???",
+   "Unlock": "Defeat Isaac, ???, Satan, and The Lamb as Tainted Eve",
+   "In Game Secret Number": "558",
+   "link": "/wiki/Strange_Key",
+   "rating": null
+ },
+ {
+   "Name": "Lil Clot",
+   "Description": "???",
+   "Unlock": "Defeat Mother as Tainted Eve",
+   "In Game Secret Number": "559",
+   "link": "/wiki/Lil_Clot",
+   "rating": null
+ },
+ {
+   "Name": "Temporary Tattoo",
+   "Description": "???",
+   "Unlock": "Defeat Isaac, ???, Satan, and The Lamb as Tainted Samson",
+   "In Game Secret Number": "560",
+   "link": "/wiki/Temporary_Tattoo",
+   "rating": null
+ },
+ {
+   "Name": "Swallowed M80",
+   "Description": "???",
+   "Unlock": "Defeat Mother as Tainted Samson",
+   "In Game Secret Number": "561",
+   "link": "/wiki/Swallowed_M80",
+   "rating": null
+ },
+ {
+   "Name": "Wicked Crown",
+   "Description": "???",
+   "Unlock": "Defeat Isaac, ???, Satan, and The Lamb as Tainted Azazel",
+   "In Game Secret Number": "562",
+   "link": "/wiki/Wicked_Crown",
+   "rating": null
+ },
+ {
+   "Name": "Azazel's Stump",
+   "Description": "???",
+   "Unlock": "Defeat Mother as Tainted Azazel",
+   "In Game Secret Number": "563",
+   "link": "/wiki/Azazel%27s_Stump",
+   "rating": null
+ },
+ {
+   "Name": "Torn Pocket",
+   "Description": "???",
+   "Unlock": "Defeat Isaac, ???, Satan, and The Lamb as Tainted Lazarus",
+   "In Game Secret Number": "564",
+   "link": "/wiki/Torn_Pocket",
+   "rating": null
+ },
+ {
+   "Name": "Torn Card",
+   "Description": "???",
+   "Unlock": "Defeat Mother as Tainted Lazarus",
+   "In Game Secret Number": "565",
+   "link": "/wiki/Torn_Card",
+   "rating": null
+ },
+ {
+   "Name": "Nuh Uh!",
+   "Description": "???",
+   "Unlock": "Defeat Isaac, ???, Satan, and The Lamb as Tainted Eden",
+   "In Game Secret Number": "566",
+   "link": "/wiki/Nuh_Uh!",
+   "rating": null
+ },
+ {
+   "Name": "Modeling Clay",
+   "Description": "???",
+   "Unlock": "Defeat Mother as Tainted Eden",
+   "In Game Secret Number": "567",
+   "link": "/wiki/Modeling_Clay",
+   "rating": null
+ },
+ {
+   "Name": "Kid's Drawing",
+   "Description": "???",
+   "Unlock": "Defeat Isaac, ???, Satan, and The Lamb as Tainted Lost",
+   "In Game Secret Number": "568",
+   "link": "/wiki/Kid%27s_Drawing",
+   "rating": 3
+ },
+ {
+   "Name": "Crystal Key",
+   "Description": "???",
+   "Unlock": "Defeat Mother as Tainted Lost",
+   "In Game Secret Number": "569",
+   "link": "/wiki/Crystal_Key",
+   "rating": 3
+ },
+ {
+   "Name": "The Twins",
+   "Description": "???",
+   "Unlock": "Defeat Isaac, ???, Satan, and The Lamb as Tainted Lilith",
+   "In Game Secret Number": "570",
+   "link": "/wiki/The_Twins",
+   "rating": null
+ },
+ {
+   "Name": "Adoption Papers",
+   "Description": "???",
+   "Unlock": "Defeat Mother as Tainted Lilith",
+   "In Game Secret Number": "571",
+   "link": "/wiki/Adoption_Papers",
+   "rating": null
+ },
+ {
+   "Name": "Keeper's Bargain",
+   "Description": "???",
+   "Unlock": "Defeat Isaac, ???, Satan, and The Lamb as Tainted Keeper",
+   "In Game Secret Number": "572",
+   "link": "/wiki/Keeper%27s_Bargain",
+   "rating": null
+ },
+ {
+   "Name": "Cursed Penny",
+   "Description": "???",
+   "Unlock": "Defeat Mother as Tainted Keeper",
+   "In Game Secret Number": "573",
+   "link": "/wiki/Cursed_Penny",
+   "rating": null
+ },
+ {
+   "Name": "Cricket Leg",
+   "Description": "???",
+   "Unlock": "Defeat Isaac, ???, Satan, and The Lamb as Tainted Apollyon",
+   "In Game Secret Number": "574",
+   "link": "/wiki/Cricket_Leg",
+   "rating": null
+ },
+ {
+   "Name": "Apollyon's Best Friend",
+   "Description": "???",
+   "Unlock": "Defeat Mother as Tainted Apollyon",
+   "In Game Secret Number": "575",
+   "link": "/wiki/Apollyon%27s_Best_Friend",
+   "rating": null
+ },
+ {
+   "Name": "Polished Bone",
+   "Description": "???",
+   "Unlock": "Defeat Isaac, ???, Satan, and The Lamb as Tainted Forgotten",
+   "In Game Secret Number": "576",
+   "link": "/wiki/Polished_Bone",
+   "rating": null
+ },
+ {
+   "Name": "Hollow Heart",
+   "Description": "???",
+   "Unlock": "Defeat Mother as Tainted Forgotten",
+   "In Game Secret Number": "577",
+   "link": "/wiki/Hollow_Heart",
+   "rating": null
+ },
+ {
+   "Name": "Expansion Pack",
+   "Description": "???",
+   "Unlock": "Defeat Isaac, ???, Satan, and The Lamb as Tainted Bethany",
+   "In Game Secret Number": "578",
+   "link": "/wiki/Expansion_Pack",
+   "rating": null
+ },
+ {
+   "Name": "Beth's Essence",
+   "Description": "???",
+   "Unlock": "Defeat Mother as Tainted Bethany",
+   "In Game Secret Number": "579",
+   "link": "/wiki/Beth%27s_Essence",
+   "rating": null
+ },
+ {
+   "Name": "RC Remote",
+   "Description": "???",
+   "Unlock": "Defeat Isaac, ???, Satan, and The Lamb as Tainted Jacob",
+   "In Game Secret Number": "580",
+   "link": "/wiki/RC_Remote",
+   "rating": null
+ },
+ {
+   "Name": "Found Soul",
+   "Description": "???",
+   "Unlock": "Defeat Mother as Tainted Jacob",
+   "In Game Secret Number": "581",
+   "link": "/wiki/Found_Soul",
+   "rating": null
+ },
+ {
+   "Name": "Member Card",
+   "Description": "Spend 40+ pennies in a single shop.",
+   "Unlock": "Spend 40+ coins in a single Shop",
+   "In Game Secret Number": "582",
+   "link": "/wiki/Member_Card",
+   "rating": null
+ },
+ {
+   "Name": "Golden Razor",
+   "Description": "Obtain 99 pennies. Then spend every single one of them.",
+   "Unlock": "In a single run, obtain 99 Coins, then spend all of them",
+   "In Game Secret Number": "583",
+   "link": "/wiki/Golden_Razor",
+   "rating": null
+ },
+ {
+   "Name": "Spindown Dice",
+   "Description": "???",
+   "Unlock": "Defeat Delirium as Tainted Isaac",
+   "In Game Secret Number": "584",
+   "link": "/wiki/Spindown_Dice",
+   "rating": 2
+ },
+ {
+   "Name": "Hypercoagulation",
+   "Description": "???",
+   "Unlock": "Defeat Delirium as Tainted Magdalene",
+   "In Game Secret Number": "585",
+   "link": "/wiki/Hypercoagulation",
+   "rating": null
+ },
+ {
+   "Name": "Bag of Crafting",
+   "Description": "???",
+   "Unlock": "Defeat Delirium as Tainted Cain",
+   "In Game Secret Number": "586",
+   "link": "/wiki/Bag_of_Crafting",
+   "rating": null
+ },
+ {
+   "Name": "Dark Arts",
+   "Description": "???",
+   "Unlock": "Defeat Delirium as Tainted Judas",
+   "In Game Secret Number": "587",
+   "link": "/wiki/Dark_Arts",
+   "rating": null
+ },
+ {
+   "Name": "IBS",
+   "Description": "???",
+   "Unlock": "Defeat Delirium as Tainted ???",
+   "In Game Secret Number": "588",
+   "link": "/wiki/IBS",
+   "rating": null
+ },
+ {
+   "Name": "Sumptorium",
+   "Description": "???",
+   "Unlock": "Defeat Delirium as Tainted Eve",
+   "In Game Secret Number": "589",
+   "link": "/wiki/Sumptorium",
+   "rating": 2
+ },
+ {
+   "Name": "Berserk!",
+   "Description": "???",
+   "Unlock": "Defeat Delirium as Tainted Samson",
+   "In Game Secret Number": "590",
+   "link": "/wiki/Berserk!",
+   "rating": null
+ },
+ {
+   "Name": "Hemoptysis",
+   "Description": "???",
+   "Unlock": "Defeat Delirium as Tainted Azazel",
+   "In Game Secret Number": "591",
+   "link": "/wiki/Hemoptysis",
+   "rating": null
+ },
+ {
+   "Name": "Flip",
+   "Description": "???",
+   "Unlock": "Defeat Delirium as Tainted Lazarus",
+   "In Game Secret Number": "592",
+   "link": "/wiki/Flip",
+   "rating": 3
+ },
+ {
+   "Name": "Corrupted Data",
+   "Description": "???",
+   "Unlock": "Defeat Delirium as Tainted Eden",
+   "In Game Secret Number": "593",
+   "link": "/wiki/Corrupted_Data",
+   "rating": null
+ },
+ {
+   "Name": "Ghost Bombs",
+   "Description": "???",
+   "Unlock": "Defeat Delirium as Tainted Lost",
+   "In Game Secret Number": "594",
+   "link": "/wiki/Ghost_Bombs",
+   "rating": null
+ },
+ {
+   "Name": "Gello",
+   "Description": "???",
+   "Unlock": "Defeat Delirium as Tainted Lilith",
+   "In Game Secret Number": "595",
+   "link": "/wiki/Gello",
+   "rating": null
+ },
+ {
+   "Name": "Keeper's Kin",
+   "Description": "???",
+   "Unlock": "Defeat Delirium as Tainted Keeper",
+   "In Game Secret Number": "596",
+   "link": "/wiki/Keeper%27s_Kin",
+   "rating": null
+ },
+ {
+   "Name": "Abyss",
+   "Description": "???",
+   "Unlock": "Defeat Delirium as Tainted Apollyon",
+   "In Game Secret Number": "597",
+   "link": "/wiki/Abyss",
+   "rating": null
+ },
+ {
+   "Name": "Decap Attack",
+   "Description": "???",
+   "Unlock": "Defeat Delirium as Tainted Forgotten",
+   "In Game Secret Number": "598",
+   "link": "/wiki/Decap_Attack",
+   "rating": null
+ },
+ {
+   "Name": "Lemegeton",
+   "Description": "???",
+   "Unlock": "Defeat Delirium as Tainted Bethany",
+   "In Game Secret Number": "599",
+   "link": "/wiki/Lemegeton",
+   "rating": 3
+ },
+ {
+   "Name": "Anima Sola",
+   "Description": "???",
+   "Unlock": "Defeat Delirium as Tainted Jacob",
+   "In Game Secret Number": "600",
+   "link": "/wiki/Anima_Sola",
+   "rating": null
+ },
+ {
+   "Name": "Mega Chest",
+   "Description": "???",
+   "Unlock": "Defeat Mega Satan as Tainted Isaac",
+   "In Game Secret Number": "601",
+   "link": "/wiki/Mega_Chest",
+   "rating": null
+ },
+ {
+   "Name": "Queen of Hearts",
+   "Description": "???",
+   "Unlock": "Defeat Mega Satan as Tainted Magdalene",
+   "In Game Secret Number": "602",
+   "link": "/wiki/Queen_of_Hearts",
+   "rating": null
+ },
+ {
+   "Name": "Gold Pill",
+   "Description": "???",
+   "Unlock": "Defeat Mega Satan as Tainted Cain",
+   "In Game Secret Number": "603",
+   "link": "/wiki/Pills",
+   "rating": null
+ },
+ {
+   "Name": "Black Sack",
+   "Description": "???",
+   "Unlock": "Defeat Mega Satan as Tainted Judas",
+   "In Game Secret Number": "604",
+   "link": "/wiki/Black_Sack",
+   "rating": null
+ },
+ {
+   "Name": "Charming Poop",
+   "Description": "???",
+   "Unlock": "Defeat Mega Satan as Tainted ???",
+   "In Game Secret Number": "605",
+   "link": "/wiki/Charming_Poop",
+   "rating": null
+ },
+ {
+   "Name": "Horse Pill",
+   "Description": "???",
+   "Unlock": "Defeat Mega Satan as Tainted Eve",
+   "In Game Secret Number": "606",
+   "link": "/wiki/Pills",
+   "rating": null
+ },
+ {
+   "Name": "Crane Game",
+   "Description": "???",
+   "Unlock": "Defeat Mega Satan as Tainted Samson",
+   "In Game Secret Number": "607",
+   "link": "/wiki/Crane_Game",
+   "rating": 3
+ },
+ {
+   "Name": "Hell Game",
+   "Description": "???",
+   "Unlock": "Defeat Mega Satan as Tainted Azazel",
+   "In Game Secret Number": "608",
+   "link": "/wiki/Hell_Game",
+   "rating": null
+ },
+ {
+   "Name": "Wooden Chest",
+   "Description": "???",
+   "Unlock": "Defeat Mega Satan as Tainted Lazarus",
+   "In Game Secret Number": "609",
+   "link": "/wiki/Wooden_Chest",
+   "rating": null
+ },
+ {
+   "Name": "Wild Card",
+   "Description": "???",
+   "Unlock": "Defeat Mega Satan as Tainted Eden",
+   "In Game Secret Number": "610",
+   "link": "/wiki/Wild_Card",
+   "rating": null
+ },
+ {
+   "Name": "Haunted Chest",
+   "Description": "???",
+   "Unlock": "Defeat Mega Satan as Tainted Lost",
+   "In Game Secret Number": "611",
+   "link": "/wiki/Haunted_Chest",
+   "rating": null
+ },
+ {
+   "Name": "Fool's Gold",
+   "Description": "???",
+   "Unlock": "Defeat Mega Satan as Tainted Lilith",
+   "In Game Secret Number": "612",
+   "link": "/wiki/Fool%27s_Gold",
+   "rating": null
+ },
+ {
+   "Name": "Golden Penny",
+   "Description": "???",
+   "Unlock": "Defeat Mega Satan as Tainted Keeper",
+   "In Game Secret Number": "613",
+   "link": "/wiki/Golden_Penny",
+   "rating": null
+ },
+ {
+   "Name": "Rotten Beggar",
+   "Description": "???",
+   "Unlock": "Defeat Mega Satan as Tainted Apollyon",
+   "In Game Secret Number": "614",
+   "link": "/wiki/Rotten_Beggar",
+   "rating": null
+ },
+ {
+   "Name": "Golden Battery",
+   "Description": "???",
+   "Unlock": "Defeat Mega Satan as Tainted Forgotten",
+   "In Game Secret Number": "615",
+   "link": "/wiki/Golden_Battery",
+   "rating": null
+ },
+ {
+   "Name": "Confessional",
+   "Description": "???",
+   "Unlock": "Defeat Mega Satan as Tainted Bethany",
+   "In Game Secret Number": "616",
+   "link": "/wiki/Confessional",
+   "rating": null
+ },
+ {
+   "Name": "Golden Trinket",
+   "Description": "???",
+   "Unlock": "Defeat Mega Satan as Tainted Jacob",
+   "In Game Secret Number": "617",
+   "link": "/wiki/Golden_Trinket",
+   "rating": null
+ },
+ {
+   "Name": "Soul of Isaac",
+   "Description": "???",
+   "Unlock": "Defeat Hush and Boss Rush as Tainted Isaac",
+   "In Game Secret Number": "618",
+   "link": "/wiki/Soul_of_Isaac",
+   "rating": 3
+ },
+ {
+   "Name": "Soul of Magdalene",
+   "Description": "???",
+   "Unlock": "Defeat Hush and Boss Rush as Tainted Magdalene",
+   "In Game Secret Number": "619",
+   "link": "/wiki/Soul_of_Magdalene",
+   "rating": null
+ },
+ {
+   "Name": "Soul of Cain",
+   "Description": "???",
+   "Unlock": "Defeat Hush and Boss Rush as Tainted Cain",
+   "In Game Secret Number": "620",
+   "link": "/wiki/Soul_of_Cain",
+   "rating": null
+ },
+ {
+   "Name": "Soul of Judas",
+   "Description": "???",
+   "Unlock": "Defeat Hush and Boss Rush as Tainted Judas",
+   "In Game Secret Number": "621",
+   "link": "/wiki/Soul_of_Judas",
+   "rating": null
+ },
+ {
+   "Name": "Soul of ???",
+   "Description": "???",
+   "Unlock": "Defeat Hush and Boss Rush as Tainted ???",
+   "In Game Secret Number": "622",
+   "link": "/wiki/Soul_of_%3F%3F%3F",
+   "rating": null
+ },
+ {
+   "Name": "Soul of Eve",
+   "Description": "???",
+   "Unlock": "Defeat Hush and Boss Rush as Tainted Eve",
+   "In Game Secret Number": "623",
+   "link": "/wiki/Soul_of_Eve",
+   "rating": null
+ },
+ {
+   "Name": "Soul of Samson",
+   "Description": "???",
+   "Unlock": "Defeat Hush and Boss Rush as Tainted Samson",
+   "In Game Secret Number": "624",
+   "link": "/wiki/Soul_of_Samson",
+   "rating": null
+ },
+ {
+   "Name": "Soul of Azazel",
+   "Description": "???",
+   "Unlock": "Defeat Hush and Boss Rush as Tainted Azazel",
+   "In Game Secret Number": "625",
+   "link": "/wiki/Soul_of_Azazel",
+   "rating": null
+ },
+ {
+   "Name": "Soul of Lazarus",
+   "Description": "???",
+   "Unlock": "Defeat Hush and Boss Rush as Tainted Lazarus",
+   "In Game Secret Number": "626",
+   "link": "/wiki/Soul_of_Lazarus",
+   "rating": null
+ },
+ {
+   "Name": "Soul of Eden",
+   "Description": "???",
+   "Unlock": "Defeat Hush and Boss Rush as Tainted Eden",
+   "In Game Secret Number": "627",
+   "link": "/wiki/Soul_of_Eden",
+   "rating": null
+ },
+ {
+   "Name": "Soul of the Lost",
+   "Description": "???",
+   "Unlock": "Defeat Hush and Boss Rush as Tainted Lost",
+   "In Game Secret Number": "628",
+   "link": "/wiki/Soul_of_the_Lost",
+   "rating": null
+ },
+ {
+   "Name": "Soul of Lilith",
+   "Description": "???",
+   "Unlock": "Defeat Hush and Boss Rush as Tainted Lilith",
+   "In Game Secret Number": "629",
+   "link": "/wiki/Soul_of_Lilith",
+   "rating": null
+ },
+ {
+   "Name": "Soul of the Keeper",
+   "Description": "???",
+   "Unlock": "Defeat Hush and Boss Rush as Tainted Keeper",
+   "In Game Secret Number": "630",
+   "link": "/wiki/Soul_of_the_Keeper",
+   "rating": 3
+ },
+ {
+   "Name": "Soul of Apollyon",
+   "Description": "???",
+   "Unlock": "Defeat Hush and Boss Rush as Tainted Apollyon",
+   "In Game Secret Number": "631",
+   "link": "/wiki/Soul_of_Apollyon",
+   "rating": null
+ },
+ {
+   "Name": "Soul of the Forgotten",
+   "Description": "???",
+   "Unlock": "Defeat Hush and Boss Rush as Tainted Forgotten",
+   "In Game Secret Number": "632",
+   "link": "/wiki/Soul_of_the_Forgotten",
+   "rating": null
+ },
+ {
+   "Name": "Soul of Bethany",
+   "Description": "???",
+   "Unlock": "Defeat Hush and Boss Rush as Tainted Bethany",
+   "In Game Secret Number": "633",
+   "link": "/wiki/Soul_of_Bethany",
+   "rating": null
+ },
+ {
+   "Name": "Soul of Jacob and Esau",
+   "Description": "???",
+   "Unlock": "Defeat Hush and Boss Rush as Tainted Jacob",
+   "In Game Secret Number": "634",
+   "link": "/wiki/Soul_of_Jacob_and_Esau",
+   "rating": null
+ },
+ {
+   "Name": "A Strange Door",
+   "Description": "Where could it lead to?",
+   "Unlock": "Defeat Mother",
+   "In Game Secret Number": "635",
+   "link": "/wiki/A_Strange_Door",
+   "rating": null
+ },
+ {
+   "Name": "Death Certificate",
+   "Description": "...",
+   "Unlock": "Earn all Hard mode Completion Marks for all characters, including tainted ones",
+   "In Game Secret Number": "636",
+   "link": "/wiki/Death_Certificate",
+   "rating": 1
+ },
+ {
+   "Name": "Dead God",
+   "Description": "",
+   "Unlock": "Unlock all the other achievements and collect every item in the game",
+   "In Game Secret Number": "637",
+   "link": "",
+   "rating": null
+ }
+]

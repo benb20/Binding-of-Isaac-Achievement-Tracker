@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Latest compiled JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+    <!-- Latest compiled and minified CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="CSS/mycss.css">
+    <script src="https://code.jquery.com/jquery-3.6.1.js"
+            integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI="
+            crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+    <script type="text/javascript" src="JS/client.js"></script>
+    <!-- Enable tooltips -->
+    <script type='text/javascript'>
+        $(document).ready(function () {
+            if ($("[rel=tooltip]").length) {
+                $("[rel=tooltip]").tooltip({html:true});
+            }
+        });
+     </script>
+     <script type="text/javascript">
+        $(function() {
+            $(".flex-item").draggable();
+        });
+    </script>
+    <title>Document</title>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+            <div class="container-fluid">
+                <a class="navbar-brand">The Binding of Isaac: Repentance Achievement Tracker</a>
+                <form class="d-flex">
+                    <% if (!user) { %>
+                        <a href="http://192.168.0.44:3000/api/auth/steam" class="btn btn-info" style="justify-content: center;" role="button">Login</a>
+                        <!--<a href="http://192.168.0.44:3000/api/auth/steam">
+                            <img src="IMG\sits_01.png">
+                        </a>-->
+                    <% } else { %>
+                        <img src='<%= user.photos[2].value %>' id="profile" />
+                        <a href="logout" class="btn btn-info" style="justify-content: center;" role="button">Logout</a>
+                    <% } %>
+                </form>
+        </div>
+    </nav>
+
+    <div class="btn-group btn-group-toggle" data-toggle="buttons">
+        <button type="button" class="btn btn-primary" onclick="clickBlue();">Primary</button>
+    </div>
+    <div id="b" class="ui-widget-content">  
+        <h3>Drag Me!!</h3>  
+       </div>  
+    <% if (user) { %>
+        <!-- Achievement number -->
+        <% total = 0 %>
+        <%for(var i = 0; i < achInfo.length; i++){ %>
+            <%if(achInfo[i]['achieved'] == 1){%>
+                <%total += 1;%>
+            <%}%>
+        <%}%>
+        <h2 style="color:white; text-align: center;">Hello, <%= user.displayName %>! You have unlocked <%= total %> / <%= achInfo.length%> (<%=Math.round(((total*100)*10/achInfo.length))/10%>%)  </h2>
+
+        <!-- Images -->
+
+        <div class="flex-container" id="all">
+            <% for(var i = 0; i < achInfo.length; i++){ // list of images %> 
+                <% var glow = achInfo[i]['rating'] %>
+                <% if (achInfo[i]['achieved'] == 0){ %>          
+                    <div class="flex-item main-div main-div<%=glow%>"  rel="tooltip" data-bs-toggle="tooltip" data-bs-placement="top" 
+                        data-bs-title="<h6><%= achInfo[i]['displayName']%></h6>
+                        <p><%=achInfo[i]['unlock']%></p>">
+                        <a href= "https://bindingofisaacrebirth.fandom.com<%=achInfo[i]['link']%>" >
+                            <img src="<%= achInfo[i]['icon'] %>"> <!-- Hover shadow needs fixing?-->
+                        </a>
+                    </div> 
+                <% } %>
+            <% } %>
+        </div>
+        
+        <% bossArray = Array.from(new Set(achInfo.map(({ boss }) => boss))); %> 
+        <div id="character">
+            <% for(var i = 0; i< chars.length; i++) {%>
+                <h2 style="color:white; text-align: center;"><%=chars[i]%></h2>
+                <div class="flex-container">
+                    <% for(var j = 0; j < achInfo.length; j++){ // list of images %> 
+                        <% var glow = achInfo[j]['rating'] %>
+                        <% if (achInfo[j]['achieved'] == 0 && achInfo[j]['char'] == chars[i]){ %>          
+                            <div class="flex-item main-div main-div<%=glow%>"  rel="tooltip" data-bs-toggle="tooltip" data-bs-placement="top" 
+                                data-bs-title="<h6><%= achInfo[j]['displayName']%></h6>
+                                <p><%=achInfo[j]['unlock']%></p>">
+                                <a href= "https://bindingofisaacrebirth.fandom.com<%=achInfo[j]['link']%>" >
+                                    <img src="<%= achInfo[j]['icon'] %>">
+                                </a>
+                            </div> 
+                        <% } %>
+                    <% } %>
+                </div>
+                <br>
+            <% }%>
+        </div>
+
+        <h2 style="color:white;">Unlocked </h2>
+        <div class="flex-container" id="unlocked">
+            <% for(var i = 0; i < achInfo.length; i++){ // list of images %> 
+                <% if (achInfo[i]['achieved'] == 1){ %> 
+                    <% var glow = achInfo[i]['rating'] %>         
+                    <div class="flex-item main-div main-div<%=glow%>"  rel="tooltip" data-bs-toggle="tooltip" data-bs-placement="top" 
+                        data-bs-title="<h6><%= achInfo[i]['displayName']%></h6>
+                        <p><%=achInfo[i]['unlock']%></p>">
+                        <a href= "https://bindingofisaacrebirth.fandom.com<%=achInfo[i]['link']%>" >
+                            <img src="<%= achInfo[i]['icon'] %>" style="filter: brightness(50%);"> <!-- Hover shadow needs fixing?-->
+                        </a>
+                    </div> 
+                <% } %>
+            <% } %>
+            </div>
+    <% } %>
+    
+</body>
+</html>
