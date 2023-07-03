@@ -27,8 +27,8 @@ app.set('view engine', 'ejs')
 
 // Initiate Strategy
 passport.use(new SteamStrategy({
-    returnURL: 'http://192.168.0.44:' + port + '/api/auth/steam/return',
-    realm: 'http://192.168.0.44:' + port + '/',
+    returnURL: 'http://192.168.0.60:' + port + '/api/auth/steam/return',
+    realm: 'http://192.168.0.60:' + port + '/',
     apiKey: key
     }, function (identifier, profile, done) {
         process.nextTick(function () {
@@ -168,6 +168,6 @@ passport.deserializeUser((user, done) => {
 });
 
 
-app.listen(port, '192.168.0.44',()=> {
+app.listen(port, '192.168.0.60',()=> {
     console.info('listening on port ' + port);
 });

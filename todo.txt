@@ -2,6 +2,8 @@
 - each achievement unlocks differently depending on DLC 
     - Do rep only? 
 
+- website becoming unresponsive after short amount of time
+- user who doesnt own game will not be able to log in (fine i guess for now)
 https://regex-generator.olafneumann.org/
 
 Isaac
