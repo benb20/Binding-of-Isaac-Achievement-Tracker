@@ -58,6 +58,7 @@
     <% if (user) { %>
         <!-- Achievement number -->
         <% total = 0 %>
+        <% console.log(achInfo) %>
         <%for(var i = 0; i < achInfo.length; i++){ %>
             <%if(achInfo[i]['achieved'] == 1){%>
                 <%total += 1;%>
@@ -99,6 +100,19 @@
                             </div> 
                         <% } %>
                     <% } %>
+
+                    <% for(var j = 0; j < achInfo.length; j++){ // list of images %> 
+                        <% var glow = achInfo[j]['rating'] %>
+                        <% if (achInfo[j]['achieved'] == 1 && achInfo[j]['char'] == chars[i]){ %>          
+                            <div class="flex-item main-div main-div<%=glow%>"  rel="tooltip" data-bs-toggle="tooltip" data-bs-placement="top" 
+                                data-bs-title="<h6><%= achInfo[j]['displayName']%></h6>
+                                <p><%=achInfo[j]['unlock']%></p>">
+                                <a href= "https://bindingofisaacrebirth.fandom.com<%=achInfo[j]['link']%>" >
+                                    <img src="<%= achInfo[j]['icon'] %>" style="filter: brightness(30%);">
+                                </a>
+                            </div> 
+                        <% } %>
+                    <% } %>
                 </div>
                 <br>
             <% }%>
@@ -113,7 +127,7 @@
                         data-bs-title="<h6><%= achInfo[i]['displayName']%></h6>
                         <p><%=achInfo[i]['unlock']%></p>">
                         <a href= "https://bindingofisaacrebirth.fandom.com<%=achInfo[i]['link']%>" >
-                            <img src="<%= achInfo[i]['icon'] %>" style="filter: brightness(50%);"> <!-- Hover shadow needs fixing?-->
+                            <img src="<%= achInfo[i]['icon'] %>" style="filter: brightness(30%);"> <!-- Hover shadow needs fixing?-->
                         </a>
                     </div> 
                 <% } %>
