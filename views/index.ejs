@@ -37,7 +37,7 @@
                 <a class="navbar-brand">The Binding of Isaac: Repentance Achievement Tracker</a>
                 <form class="d-flex">
                     <% if (!user) { %>
-                        <a href="http://192.168.0.60:3000/api/auth/steam" class="btn btn-info" style="justify-content: center;" role="button">Login</a>
+                        <a href="http://localhost:3000/api/auth/steam" class="btn btn-info" style="justify-content: center;" role="button">Login</a>
                         <!--<a href="http://192.168.0.44:3000/api/auth/steam">
                             <img src="IMG\sits_01.png">
                         </a>-->
@@ -49,16 +49,25 @@
         </div>
     </nav>
 
-    <div class="btn-group btn-group-toggle" data-toggle="buttons">
-        <button type="button" class="btn btn-primary" onclick="clickBlue();">Primary</button>
+    <div class="btn-group btn-group-toggle mb-4" data-toggle="buttons" style="width: 100%; justify-content: center;">
+        <button type="button" class="btn btn-primary" onclick="showAll();">All Achievements</button>
+        <button type="button" class="btn btn-primary" onclick="showCharacters();">Character Unlocks</button>
+        <button type="button" class="btn btn-primary" onclick="showGreed();">Greed/Greedier Mode</button>
     </div>
+
+    <div class="btn-group btn-group-toggle mb-4" data-toggle="buttons" style="width: 100%; justify-content: center;">
+        <button type="button" class="btn btn-warning" onclick="toggleRatingFilter('3');">Bronze (3★)</button>
+        <button type="button" class="btn btn-secondary" onclick="toggleRatingFilter('2');">Silver (2★)</button>
+        <button type="button" class="btn btn-warning" style="background-color: gold;" onclick="toggleRatingFilter('1');">Gold (1★)</button>
+        <button type="button" class="btn btn-danger" onclick="clearRatingFilter();">Clear Filter</button>
+    </div>
+
     <div id="b" class="ui-widget-content">  
         <h3>Drag Me!!</h3>  
-       </div>  
+    </div>  
     <% if (user) { %>
         <!-- Achievement number -->
         <% total = 0 %>
-        <% console.log(achInfo) %>
         <%for(var i = 0; i < achInfo.length; i++){ %>
             <%if(achInfo[i]['achieved'] == 1){%>
                 <%total += 1;%>
@@ -66,34 +75,31 @@
         <%}%>
         <h2 style="color:white; text-align: center;">Hello, <%= user.displayName %>! You have unlocked <%= total %> / <%= achInfo.length%> (<%=Math.round(((total*100)*10/achInfo.length))/10%>%)  </h2>
 
-        <!-- Images -->
-
-        <div class="flex-container" id="all">
+        <!-- All Achievements View -->
+        <div class="flex-container" id="all-view">
             <% for(var i = 0; i < achInfo.length; i++){ // list of images %> 
                 <% var glow = achInfo[i]['rating'] %>
                 <% if (achInfo[i]['achieved'] == 0){ %>          
-                    <div class="flex-item main-div main-div<%=glow%>"  rel="tooltip" data-bs-toggle="tooltip" data-bs-placement="top" 
-                        data-bs-title="<h6><%= achInfo[i]['displayName']%></h6>
-                        <p><%=achInfo[i]['unlock']%></p>">
+                    <div class="flex-item main-div main-div<%=glow%>" data-rating="<%=achInfo[i]['rating']%>" rel="tooltip" data-bs-toggle="tooltip" data-bs-placement="top" 
+                        data-bs-title="<%= achInfo[i]['displayName']%> - <%=achInfo[i]['unlock']%>">
                         <a href= "https://bindingofisaacrebirth.fandom.com<%=achInfo[i]['link']%>" >
-                            <img src="<%= achInfo[i]['icon'] %>"> <!-- Hover shadow needs fixing?-->
+                            <img src="<%= achInfo[i]['icon'] %>">
                         </a>
                     </div> 
                 <% } %>
             <% } %>
         </div>
         
-        <% bossArray = Array.from(new Set(achInfo.map(({ boss }) => boss))); %> 
-        <div id="character">
+        <!-- Character View -->
+        <div id="character-view" style="display: none;">
             <% for(var i = 0; i< chars.length; i++) {%>
                 <h2 style="color:white; text-align: center;"><%=chars[i]%></h2>
                 <div class="flex-container">
                     <% for(var j = 0; j < achInfo.length; j++){ // list of images %> 
                         <% var glow = achInfo[j]['rating'] %>
                         <% if (achInfo[j]['achieved'] == 0 && achInfo[j]['char'] == chars[i]){ %>          
-                            <div class="flex-item main-div main-div<%=glow%>"  rel="tooltip" data-bs-toggle="tooltip" data-bs-placement="top" 
-                                data-bs-title="<h6><%= achInfo[j]['displayName']%></h6>
-                                <p><%=achInfo[j]['unlock']%></p>">
+                            <div class="flex-item main-div main-div<%=glow%>" data-rating="<%=achInfo[j]['rating']%>" rel="tooltip" data-bs-toggle="tooltip" data-bs-placement="top" 
+                                data-bs-title="<%= achInfo[j]['displayName']%> - <%=achInfo[j]['unlock']%>">
                                 <a href= "https://bindingofisaacrebirth.fandom.com<%=achInfo[j]['link']%>" >
                                     <img src="<%= achInfo[j]['icon'] %>">
                                 </a>
@@ -104,9 +110,8 @@
                     <% for(var j = 0; j < achInfo.length; j++){ // list of images %> 
                         <% var glow = achInfo[j]['rating'] %>
                         <% if (achInfo[j]['achieved'] == 1 && achInfo[j]['char'] == chars[i]){ %>          
-                            <div class="flex-item main-div main-div<%=glow%>"  rel="tooltip" data-bs-toggle="tooltip" data-bs-placement="top" 
-                                data-bs-title="<h6><%= achInfo[j]['displayName']%></h6>
-                                <p><%=achInfo[j]['unlock']%></p>">
+                            <div class="flex-item main-div main-div<%=glow%>" data-rating="<%=achInfo[j]['rating']%>" rel="tooltip" data-bs-toggle="tooltip" data-bs-placement="top" 
+                                data-bs-title="<%= achInfo[j]['displayName']%> - <%=achInfo[j]['unlock']%>">
                                 <a href= "https://bindingofisaacrebirth.fandom.com<%=achInfo[j]['link']%>" >
                                     <img src="<%= achInfo[j]['icon'] %>" style="filter: brightness(30%);">
                                 </a>
@@ -118,16 +123,48 @@
             <% }%>
         </div>
 
+        <!-- Greed/Greedier Mode View -->
+        <div id="greed-view" style="display: none;">
+            <h2 style="color:white; text-align: center;">Greed Mode</h2>
+            <div class="flex-container">
+                <% for(var i = 0; i < achInfo.length; i++){ %>
+                    <% if (achInfo[i]['unlock'] && achInfo[i]['unlock'].toLowerCase().includes('greed') && !achInfo[i]['unlock'].toLowerCase().includes('greedier')){ %>
+                        <% var glow = achInfo[i]['rating'] %>
+                        <div class="flex-item main-div main-div<%=glow%>" data-rating="<%=achInfo[i]['rating']%>" rel="tooltip" data-bs-toggle="tooltip" data-bs-placement="top" 
+                            data-bs-title="<%= achInfo[i]['displayName']%> - <%=achInfo[i]['unlock']%>">
+                            <a href="https://bindingofisaacrebirth.fandom.com<%=achInfo[i]['link']%>">
+                                <img src="<%= achInfo[i]['icon'] %>" style="<%= achInfo[i]['achieved'] == 1 ? 'filter: brightness(30%);' : '' %>">
+                            </a>
+                        </div>
+                    <% } %>
+                <% } %>
+            </div>
+
+            <h2 style="color:white; text-align: center;">Greedier Mode</h2>
+            <div class="flex-container">
+                <% for(var i = 0; i < achInfo.length; i++){ %>
+                    <% if (achInfo[i]['unlock'] && achInfo[i]['unlock'].toLowerCase().includes('greedier')){ %>
+                        <% var glow = achInfo[i]['rating'] %>
+                        <div class="flex-item main-div main-div<%=glow%>" data-rating="<%=achInfo[i]['rating']%>" rel="tooltip" data-bs-toggle="tooltip" data-bs-placement="top" 
+                            data-bs-title="<%= achInfo[i]['displayName']%> - <%=achInfo[i]['unlock']%>">
+                            <a href="https://bindingofisaacrebirth.fandom.com<%=achInfo[i]['link']%>">
+                                <img src="<%= achInfo[i]['icon'] %>" style="<%= achInfo[i]['achieved'] == 1 ? 'filter: brightness(30%);' : '' %>">
+                            </a>
+                        </div>
+                    <% } %>
+                <% } %>
+            </div>
+        </div>
+
         <h2 style="color:white;">Unlocked </h2>
         <div class="flex-container" id="unlocked">
             <% for(var i = 0; i < achInfo.length; i++){ // list of images %> 
                 <% if (achInfo[i]['achieved'] == 1){ %> 
                     <% var glow = achInfo[i]['rating'] %>         
-                    <div class="flex-item main-div main-div<%=glow%>"  rel="tooltip" data-bs-toggle="tooltip" data-bs-placement="top" 
-                        data-bs-title="<h6><%= achInfo[i]['displayName']%></h6>
-                        <p><%=achInfo[i]['unlock']%></p>">
+                    <div class="flex-item main-div main-div<%=glow%>" data-rating="<%=achInfo[i]['rating']%>" rel="tooltip" data-bs-toggle="tooltip" data-bs-placement="top" 
+                        data-bs-title="<%= achInfo[i]['displayName']%> - <%=achInfo[i]['unlock']%>">
                         <a href= "https://bindingofisaacrebirth.fandom.com<%=achInfo[i]['link']%>" >
-                            <img src="<%= achInfo[i]['icon'] %>" style="filter: brightness(30%);"> <!-- Hover shadow needs fixing?-->
+                            <img src="<%= achInfo[i]['icon'] %>" style="filter: brightness(30%);">
                         </a>
                     </div> 
                 <% } %>

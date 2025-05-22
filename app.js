@@ -7,7 +7,7 @@
 // Domain Name:
 // localhost
 
-const key = '02E68BAB39008A9612CF3C21EC30D4EA'
+const key = '17FB17A57FAF987A9E46B470BE397EC4'
 var express = require('express') // Express
 var app = express();
 var port = 3000;
@@ -27,8 +27,8 @@ app.set('view engine', 'ejs')
 
 // Initiate Strategy
 passport.use(new SteamStrategy({
-    returnURL: 'http://192.168.0.60:' + port + '/api/auth/steam/return',
-    realm: 'http://192.168.0.60:' + port + '/',
+    returnURL: 'http://localhost:' + port + '/api/auth/steam/return',
+    realm: 'http://localhost:' + port + '/',
     apiKey: key
     }, function (identifier, profile, done) {
         process.nextTick(function () {
@@ -102,20 +102,29 @@ function clean(info){
             char = unlock.match(new RegExp(" as "+ "(.*)"));
             info[i]["boss"] = boss[1];
             info[i]["char"] = char[1];
+            info[i]["type"] = "boss";
         } catch(err) {
             try { //complete boss rush ...
                 boss = unlock.match(new RegExp("Complete the " + "(.*)" + " as"));
                 char = unlock.match(new RegExp(" as "+ "(.*)"));
                 info[i]["boss"] = boss[1];
                 info[i]["char"] = char[1];
+                info[i]["type"] = "boss";
             } catch(err) {
-                continue
+                try { //greed mode ...
+                    greed = unlock.match(new RegExp("Complete " + "(.*)" + " as"));
+                    char = unlock.match(new RegExp(" as "+ "(.*)"));
+                    info[i]["mode"] = greed[1];
+                    info[i]["char"] = char[1];
+                    info[i]["type"] = "greed";
+                } catch(err) {
+                    info[i]["type"] = "other";
+                    continue;
+                }
             }
         }
-        
     }
-    
-    return info
+    return info;
 }
 ////////////////////////////// Routes ////////////////////////////////////////
 
@@ -148,13 +157,32 @@ app.get('/api/auth/steam/return', passport.authenticate('steam', {failureRedirec
     achs = await getAchievements(id);
     achInfo = await getInfo();
     achDetail = await getDetail();
-    for(var i = 0; i < achInfo.length; i++){
-        achInfo[i]['achieved'] = achs[i]['achieved']
-        achInfo[i]['unlock'] = achDetail[i]['Unlock']
-        achInfo[i]['link'] = achDetail[i]['link']
-        achInfo[i]['rating'] = achDetail[i]['rating']
+    
+    // Create a map of achievement details by name for easier lookup
+    const achDetailMap = {};
+    achDetail.forEach(detail => {
+        achDetailMap[detail.Name] = detail;
+    });
 
+    // Merge the data safely
+    for(var i = 0; i < achInfo.length; i++){
+        const achievementName = achInfo[i].displayName;
+        const detail = achDetailMap[achievementName];
+        
+        if (detail) {
+            achInfo[i]['achieved'] = achs[i] ? achs[i]['achieved'] : 0;
+            achInfo[i]['unlock'] = detail['Unlock'];
+            achInfo[i]['link'] = detail['link'];
+            achInfo[i]['rating'] = detail['rating'];
+        } else {
+            console.warn(`No detail found for achievement: ${achievementName}`);
+            achInfo[i]['achieved'] = achs[i] ? achs[i]['achieved'] : 0;
+            achInfo[i]['unlock'] = 'Unknown unlock condition';
+            achInfo[i]['link'] = '';
+            achInfo[i]['rating'] = null;
+        }
     }
+    
     achInfo = clean(achInfo);
     res.redirect('/');
 });
@@ -168,6 +196,6 @@ passport.deserializeUser((user, done) => {
 });
 
 
-app.listen(port, '192.168.0.60',()=> {
+app.listen(port, 'localhost',()=> {
     console.info('listening on port ' + port);
 });
